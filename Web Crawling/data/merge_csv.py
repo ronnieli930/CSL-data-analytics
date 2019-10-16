@@ -16,6 +16,6 @@ for i in range(1, (file_num) + 1):
     file_name = file_prefix + str(i) + ".csv"
     all_files.append(file_name)
 
-combined = pd.concat([pd.read_csv(f) for f in all_files])
+combined = pd.concat([pd.read_csv(f, index_col=0) for f in all_files], ignore_index=True)
 file_name_combined = file_prefix + ".csv"
 combined.to_csv(file_name_combined, sep=',', na_rep='N/A', encoding="utf_8_sig")
