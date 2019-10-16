@@ -1,0 +1,2054 @@
+﻿<!DOCTYPE html>
+<html lang="zh-cn">
+ <head>
+  <!-- Google Tag Manager -->
+  <script async="" src="https://s.yimg.com/wi/ytc.js">
+  </script>
+  <script async="" src="https://connect.facebook.net/signals/config/591780967946955?v=2.9.5&amp;r=stable">
+  </script>
+  <script async="" src="https://connect.facebook.net/signals/config/2174671119271204?v=2.9.5&amp;r=stable">
+  </script>
+  <script async="" src="https://connect.facebook.net/signals/config/336439133373227?v=2.9.5&amp;r=stable">
+  </script>
+  <script async="" src="https://connect.facebook.net/en_US/fbevents.js">
+  </script>
+  <script async="" src="//www.googleadservices.com/pagead/conversion_async.js" type="text/javascript">
+  </script>
+  <script async="" src="//www.googleadservices.com/pagead/conversion_async.js" type="text/javascript">
+  </script>
+  <script async="" src="//www.googleadservices.com/pagead/conversion_async.js" type="text/javascript">
+  </script>
+  <script async="" src="//www.googleadservices.com/pagead/conversion_async.js" type="text/javascript">
+  </script>
+  <script async="" src="https://www.google-analytics.com/analytics.js" type="text/javascript">
+  </script>
+  <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-T2GSPFT">
+  </script>
+  <script>
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-T2GSPFT');
+  </script>
+  <!-- End Google Tag Manager -->
+  <meta charset="utf-8"/>
+  <meta content="ie=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="價格,HONOR View 20 8+256GB 智能手機 幻影藍" name="keywords"/>
+  <meta content="香港蘇寧為您提供HONOR View 20 8+256GB 智能手機 幻影藍價格、圖片、品牌、報價等資訊，網購正品首選香港蘇寧蘇寧自營" name="description"/>
+  <link href="//res.suning.cn/project/hongkong/common/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+  <title>
+   HONOR View 20 8+256GB 智能手機 幻影藍【價格 圖片 品牌 報價】-香港蘇寧蘇寧自營
+  </title>
+  <script>
+   window.snEnv = 'production';
+    window.snHost = {
+        snyghk: '//www.hksuning.com',
+        search: '//search.hksuning.com',
+        product: '//product.hksuning.com',
+        shopping: '//shopping.hksuning.com',
+        order: '//shopping.hksuning.com',
+        api: '//api.hksuning.com',
+        my: '//www.hksuning.com',
+        image: '//image3.suning.cn',
+        dt: '//dt.suning.com',
+        fp: '//fp.suning.com',
+        ipservice: '//ipservice.suning.com',
+        res: '//res.suning.cn',
+        vcs: '//vcs.suning.com',
+        m: '//m.suning.com',
+        quan: '//quanhk.suning.com',
+        cShop: '//shop.hksuning.com',
+        cShopM: '//shopm.hksuning.com',
+        cmsUrl: '//libhk.suning.com',
+        recomUrl: '//tuijian.suning.com',
+        ds: '//ds.suning.com',
+        aq: '//aqhk.suning.com',
+        vip: '//vip.suning.com',
+        icps: '//icps.suning.com',
+        resm: '//res.m.suning.com',
+        pds: '//product.hk.suning.com',
+        auth: '//api.hksuning.com/proxy/my/authStatus',
+        pas: '//pas.suning.com',
+        review: '//reviewhk.suning.com',
+        reviewImage: '//reviewimage.suning.com',
+        service: '//service.hksuning.com',
+        favorite: '//favoritehk.suning.com',
+        trace: '//trace.suning.com',
+        rec: '//rec.suning.com',
+        newmem: '//newmem.suning.com'
+    };
+  </script>
+  <script>
+   var passport_config = {
+            base: 'https://api.hksuning.com/proxy/my/',
+            loginTheme: "b2c_pop"
+        };
+  </script>
+  <link href="//res.suning.cn/project/min/hongkong/common/css/v3common.min.css,hongkong/common/css/search.min.css,hongkong/common/css/header-footer.css?v=2618425" rel="stylesheet" type="text/css"/>
+  <link href="//res.suning.cn/project/min/hongkong/fourth/pc/css/fourth.css,hongkong/fourth/pc/css/coupon-dialog.css?v=2618425" rel="stylesheet" type="text/css"/>
+  <script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/868148226/?random=1571107861360&amp;cv=9&amp;fst=1571107861360&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=1080&amp;u_w=1920&amp;u_ah=1040&amp;u_aw=1920&amp;u_cd=24&amp;u_his=2&amp;u_tz=480&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wga21&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fproduct.hksuning.com%2F0000000000%2F11008663850.html&amp;tiba=HONOR%20View%2020%208%2B256GB%20%E6%99%BA%E8%83%BD%E6%89%8B%E6%A9%9F%20%E5%B9%BB%E5%BD%B1%E8%97%8D%E3%80%90%E5%83%B9%E6%A0%BC%20%E5%9C%96%E7%89%87%20%E5%93%81%E7%89%8C%20%E5%A0%B1%E5%83%B9%E3%80%91-%E9%A6%99%E6%B8%AF%E8%98%87%E5%AF%A7%E8%98%87%E5%AF%A7&amp;async=1&amp;rfmt=3&amp;fmt=4">
+  </script>
+  <script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/752558204/?random=1571107861367&amp;cv=9&amp;fst=1571107861367&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=1080&amp;u_w=1920&amp;u_ah=1040&amp;u_aw=1920&amp;u_cd=24&amp;u_his=2&amp;u_tz=480&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wga21&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fproduct.hksuning.com%2F0000000000%2F11008663850.html&amp;tiba=HONOR%20View%2020%208%2B256GB%20%E6%99%BA%E8%83%BD%E6%89%8B%E6%A9%9F%20%E5%B9%BB%E5%BD%B1%E8%97%8D%E3%80%90%E5%83%B9%E6%A0%BC%20%E5%9C%96%E7%89%87%20%E5%93%81%E7%89%8C%20%E5%A0%B1%E5%83%B9%E3%80%91-%E9%A6%99%E6%B8%AF%E8%98%87%E5%AF%A7%E8%98%87%E5%AF%A7&amp;async=1&amp;rfmt=3&amp;fmt=4">
+  </script>
+  <script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/793056339/?random=1571107861369&amp;cv=9&amp;fst=1571107861369&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=1080&amp;u_w=1920&amp;u_ah=1040&amp;u_aw=1920&amp;u_cd=24&amp;u_his=2&amp;u_tz=480&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wga21&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fproduct.hksuning.com%2F0000000000%2F11008663850.html&amp;tiba=HONOR%20View%2020%208%2B256GB%20%E6%99%BA%E8%83%BD%E6%89%8B%E6%A9%9F%20%E5%B9%BB%E5%BD%B1%E8%97%8D%E3%80%90%E5%83%B9%E6%A0%BC%20%E5%9C%96%E7%89%87%20%E5%93%81%E7%89%8C%20%E5%A0%B1%E5%83%B9%E3%80%91-%E9%A6%99%E6%B8%AF%E8%98%87%E5%AF%A7%E8%98%87%E5%AF%A7&amp;async=1&amp;rfmt=3&amp;fmt=4">
+  </script>
+  <script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/771277058/?random=1571107861371&amp;cv=9&amp;fst=1571107861371&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=1080&amp;u_w=1920&amp;u_ah=1040&amp;u_aw=1920&amp;u_cd=24&amp;u_his=2&amp;u_tz=480&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wga21&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fproduct.hksuning.com%2F0000000000%2F11008663850.html&amp;tiba=HONOR%20View%2020%208%2B256GB%20%E6%99%BA%E8%83%BD%E6%89%8B%E6%A9%9F%20%E5%B9%BB%E5%BD%B1%E8%97%8D%E3%80%90%E5%83%B9%E6%A0%BC%20%E5%9C%96%E7%89%87%20%E5%93%81%E7%89%8C%20%E5%A0%B1%E5%83%B9%E3%80%91-%E9%A6%99%E6%B8%AF%E8%98%87%E5%AF%A7%E8%98%87%E5%AF%A7&amp;async=1&amp;rfmt=3&amp;fmt=4">
+  </script>
+  <script async="" charset="UTF-8" src="https://oss.suning.com/mmds/mmds/js/k5ymGhHQjMOYkXs/mmds.oaLpPNPMnYV83oh.js" type="text/javascript">
+  </script>
+  <script src="//res.suning.cn/javascript/sn_da/sa_click.js" type="text/javascript">
+  </script>
+  <script src="//res.suning.cn/javascript/sn_da/da_opt.js" type="text/javascript">
+  </script>
+  <script async="" src="//sa.suning.cn/cc.js" type="text/javascript">
+  </script>
+  <script async="" src="//sa.suning.cn/cc.js" type="text/javascript">
+  </script>
+  <script async="" src="//sa.suning.cn/cc.js" type="text/javascript">
+  </script>
+  <script src="//res.suning.cn/javascript/sn_da/da_opt.js" type="text/javascript">
+  </script>
+ </head>
+ <body>
+  <style id="ui-city-style">
+   ul,li,p,h3,h5,em,b,i,span,a{ margin: 0; padding: 0; }ul,li { list-style: none; }.clearfix:after{ content:"."; display:block; height:0; clear:both; visibility:hidden}.clearfix{ zoom:1}.ui-city a,.ui-city a:visited{ line-height:14px; color:#333; text-decoration: none; outline: none; cursor: pointer;}.ui-city a:hover { text-decoration:none; }.ui-city { display:inline-block;*dispplay:inline;*zoom:1; font-size: 12px; position: relative; z-index: 0}.ui-city .dn { display: none; }.ui-city .db { display: block; }.ui-city .dib { display: inline-block; }.ui-city .arr { display: inline-block; width: 0; height:0; border-color: #bbb transparent transparent; border-width: 5px; border-style: solid dashed dashed; font-size: 0; line-height: 0; overflow: hidden; }.ui-city a.ui-city-toggle:hover { color:#333;}.ui-city-toggle { display:inline-block; padding:6px 5px 6px 6px; color: #000;background: #fff; position: relative; z-index: 100}.ui-city-toggle .address-placement {font-style: normal; float: left;}.ui-city-toggle span { padding-right: 5px}.ui-city-toggle span:hover {color: #333;}.ui-city-toggle .arr { margin-right:5px;position: relative; top:5px; float: left;}.ui-city-group { display:none; position: absolute;background: #fff; left: 0; top:27px;border: 1px solid #ccc; margin-top:-1px; width: 420px; z-index: 99; box-shadow: 0 0 6px #ddd;padding-top:5px;}.ui-city-group .ui-city-close  { position: absolute;right: 0;top: 0;padding: 5px 10px;overflow: hidden;}.ui-city-group .ui-city-close i { font: 700 14px/1.5 simsun;margin-left:-4px; color: #aaa}.ui-city-group-header { padding-top: 10px;  }.ui-city-group-header p { padding-left:15px; margin-bottom: 10px; }.ui-city-group-header .address-title { }.ui-city-group-header .address-item {clear:both; }.ui-city-group-header .address-item a,.ui-city-group-header .address-item a:visited{ display: inline-block;zoom:1; padding-top: 4px; padding-left: 5px; padding-bottom: 4px; margin-right: 10px; border: 1px solid #bbb; }.ui-city-group-header .address-item a:hover {  background: #f90; color: #fff;border:1px solid #f90; }.ui-city-group-header .address-item a span { padding-right:5px}.ui-city-group-content { margin: 20px 10px 0 10px; background:#fff;}.ui-city-group-content .nav-tabs { padding-left: 6px; display: none; }.ui-city-group-content .nav-tabs li {float: left; position: relative; z-index:2;border: 1px solid #ccc; height: 26px;background:#fff;margin-right: 6px; margin-bottom:0; cursor: pointer; }.ui-city-group-content .nav-tabs li p { padding: 6px 10px 6px 10px;border:1px solid #fff; }.ui-city-group-content .nav-tabs li a,.ui-city-group-content .nav-tabs li a:visited{ color: #999;float: left}.ui-city-group-content .nav-tabs li .arr { position: relative; top: 3px;left: 5px;font-size: 0; line-height: 0;}.ui-city-group-content .nav-tabs li.current { border: 2px solid #ffb84e; border-bottom:none; z-index: 4;}.ui-city-group-content .nav-tabs li.current p { padding: 6px 10px 5px 10px; position: relative; z-index: 4; border:none; }.ui-city-group-content .nav-tabs li.current .arr { border-color:  transparent transparent #f90; border-style:  dashed dashed solid; top:-2px; }.ui-city-group-content .nav-tabs li.current a,.ui-city-group-content .nav-tabs li.current a:visited{ display:inline-block; color: #333; }.ui-city-group-content .nav-tabs li.active a,.ui-city-group-content .nav-tabs li.active a:visited{ display:inline-block; color: #333; }.ui-city-group-content .tab-content { border-top: 2px solid #ffb84e;top:-2px;  position: relative; z-index: 3}.ui-city-group-content .tab-content .tab-panel { display: none; padding-top: 3px; padding-bottom: 15px; background: #fff;padding-left: 8px }.ui-city-group-content .tab-content .tab-panel.active { display: block;}.ui-city-group-content .tab-content li:after { content:"."; display:block; height:0; clear:both; visibility:hidden }.ui-city-group-content .tab-content li { *zoom:1;}.ui-city-group-content .tab-content li span {display:inline-block;width: 98px;}.ui-city-group-content .tab-content li a,.ui-city-group-content .tab-content li a:visited { display:inline-block; background:#fff;margin: 2px; padding: 5px; color:#000; }.ui-city-group-content .tab-content li a:hover { background: #f90; color: #fff;}.ui-city-group-content .tab-content li a.on,.ui-city-group-content .tab-content li a.on:visited { background: #f90;color: #fff; }.ui-city-group-content .tab-content .pr-panel li a{ }.ui-city.active { z-index: 10}.ui-city.active a.ui-city-toggle { border: 1px solid #ccc;background:#fff;border-bottom:none;box-shadow: 0 -1px 1px #ddd}.ui-city.active a.ui-city-toggle:hover { color: #333; background: #fff; text-decoration: none;}.ui-city.active a.ui-city-toggle .arr{ border-color:  transparent transparent #f90; border-style:  dashed dashed solid; top:0; }.ui-city.active .ui-city-group { display: block; }.ui-city .arr {transition:All .2s ease;-webkit-transition:All .2s ease;-moz-transition:All .2s ease;-o-transition:All .2s ease;-ms-transition:All .2s ease;}
+  </style>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-T2GSPFT" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <input id="resourceType" type="hidden" value="hkweb"/>
+  <script>
+   // 头部全局变量
+  var NODE_PROXY = '//api.hksuning.com/proxy/';
+  var sn = sn || {
+         "snHKDomain": '//www.hksuning.com',
+         "cityId" : 'HK4',
+         "cookieDomain":'.hksuning.com',
+         "searchDomain": '//search.hksuning.com',
+         "staticDomain":  '//res.suning.cn',
+         "imgDomain":  '//image3.suning.cn',
+         "cmsApiDomain" :  "//libhk.suning.com",
+         "plmslabel" :  "//plmslabel.suning.cn",
+         "icpsDomain": '//icps.suning.com'
+     };
+  </script>
+  <script>
+   // 头部全局变量
+    sn.NODE_ENV = "prd";
+    sn.storeId = "10052";
+    sn.catalogId = "10051";
+    sn.categoryId = "25005";
+    sn.relatedWord = true;
+  </script>
+  <script>
+   sn.isLiteEdition = false;
+  </script>
+  <div class="ng-header ng-channel-header">
+   <div class="ng-header-con">
+    <div class="wrapper">
+     <div class="ng-header-box">
+      <a class="ng-logo" href="https://www.hksuning.com/" name="hkpcCommon_hkCommon_head_logo">
+       <img alt="苏宁logo" height="55" src="//image5.suning.cn/uimg/cms/img/156289526675691400.png" width="178"/>
+      </a>
+      <div class="ng-right-row">
+       <div class="right-row">
+        <a class="right-row-box" href="//shopping.hksuning.com/order/orderList.html" name="hkpcCommon_hkCommon_head_order" target="_blank">
+         <p class="bg-hk bg-order">
+         </p>
+         <span class="right-name">
+          我的訂單
+         </span>
+        </a>
+       </div>
+       <div class="right-row">
+        <a class="right-row-box" href="//shopping.hksuning.com/cart1" name="hkpcCommon_hkCommon_head_cart" target="_blank">
+         <i class="right-grade J_cart_total_num">
+          0
+         </i>
+         <p class="bg-hk bg-cart">
+         </p>
+         <span class="right-name">
+          購物車
+         </span>
+        </a>
+       </div>
+       <a class="right-row-cart" href="//shopping.hksuning.com/cart1" name="hkpcCommon_hkCommon_head_cart" target="_blank">
+        <em class="ng-iconfont cart">
+         
+        </em>
+        <span>
+         購物車
+        </span>
+        <span class="total-num-box" id="J_total_num_box">
+         <b class="total-num J_cart_total_num">
+          0
+         </b>
+        </span>
+        件
+       </a>
+       <div class="user-row">
+        <a class="user-row-box" href="//www.hksuning.com/myhome" name="hkpcCommon_hkCommon_head_myegou" target="_blank" title="">
+         <i class="user-grade">
+         </i>
+         <img alt="默認頭像" class="user-img" src="//res.suning.cn/project/hongkong/common/images/nopic.png?v=2618425" title="點擊進入我的蘇寧"/>
+         <img alt="默認頭像" class="user-img-hide" src="//res.suning.cn/project/hongkong/common/images/no-hover.png?v=2618425" title="點擊進入我的蘇寧"/>
+         <span class="user-name">
+         </span>
+        </a>
+        <div class="sn-login-reg">
+         <a class="sn-login" href="javascript:SFE.base.logonurl();" name="hkpcCommon_hkCommon_head_login">
+          登入
+         </a>
+         /
+         <a class="sn-register" href="//www.hksuning.com/register" name="hkpcCommon_hkCommon_head_reg" target="_blank">
+          註冊
+         </a>
+        </div>
+        <a class="sn-logout" href="javascript:SFE.base.logoff();" name="hkpcCommon_hkCommon_head_logout">
+         登出
+        </a>
+       </div>
+      </div>
+     </div>
+     <div class="ng-search channel-search">
+      <div class="g-search">
+       <i class="ng-iconfont search-icon">
+        
+       </i>
+       <form method="get" onsubmit="return false">
+        <div class="search-keyword-box">
+         <input autocomplete="off" class="search-keyword" id="searchKeywords" name="hkpcCommon_hkCommon_head_search-input" tabindex="0" type="text" value=""/>
+        </div>
+        <input class="search-btn" id="searchSubmit" name="hkpcCommon_hkCommon_head_search" type="submit" value="搜  尋"/>
+        <div class="g-search-hotwords" id="snKeywordNew">
+         <input id="searchDefaultKeyword" key="NOTE 10" type="hidden" value="NOTE 10"/>
+         <a href="//search.hksuning.com/search/result?keyword=soundbar" name="hkpcCommon_hkpcCommon_hkCommon_head_search-word" target="_blank">
+          soundbar
+         </a>
+         <a href="//search.hksuning.com/search/result?keyword=TEMPO" name="hkpcCommon_hkpcCommon_hkCommon_head_search-word" style="color: #f60;" target="_blank">
+          TEMPO
+         </a>
+         <a href="//search.hksuning.com/search/result?keyword=ipad" name="hkpcCommon_hkpcCommon_hkCommon_head_search-word" target="_blank">
+          ipad
+         </a>
+         <a href="//search.hksuning.com/search/result?keyword=%E5%8D%A1%E6%A8%82B" name="hkpcCommon_hkpcCommon_hkCommon_head_search-word" style="color: #f60;" target="_blank">
+          卡樂B
+         </a>
+         <a href="//search.hksuning.com/search/result?keyword=SK-II" name="hkpcCommon_hkpcCommon_hkCommon_head_search-word" style="color: #f60;" target="_blank">
+          SK-II
+         </a>
+         <a href="//search.hksuning.com/search/result?keyword=IPHONE%2011" name="hkpcCommon_hkpcCommon_hkCommon_head_search-word" style="color: #f60;" target="_blank">
+          IPHONE 11
+         </a>
+         <a href="//search.hksuning.com/search/result?keyword=Haenim%E5%96%9C%E8%87%A8" name="hkpcCommon_hkpcCommon_hkCommon_head_search-word" target="_blank">
+          Haenim喜臨
+         </a>
+         <a href="//search.hksuning.com/search/result?keyword=%E5%B0%BF%E7%89%87" name="hkpcCommon_hkpcCommon_hkCommon_head_search-word" target="_blank">
+          尿片
+         </a>
+        </div>
+       </form>
+       <div class="g-ac-results hide" id="ac_results">
+       </div>
+       <div class="g-rec-results hide" id="rec_results">
+        <ul class="history-results">
+        </ul>
+        <ul class="rec-results">
+        </ul>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="ng-nav-bar">
+   <div class="index-sort ng-sort-index homepage-sort">
+    <a class="index-all-hook" href="javascript:;" name="hkpcCommon_hkCommon_menu_all-hover">
+     <i>
+     </i>
+     <span>
+      全部商品分類
+     </span>
+    </a>
+    <div class="dacu-list-wrapper" style="display:none;">
+     <div class="index-sort-list-box">
+      <div class="nav-cover">
+      </div>
+      <ul class="index-list">
+       <li class="hei33" name="hkpcCommon_hkCommon_menu_menu1-hover">
+        <i class="ng-iconfont">
+         
+        </i>
+        <a href="https://search.hksuning.com/search/list?ci=503505" name="hkpcCommon_hkCommon_65698119633_word01" target="_blank">
+         手機
+        </a>
+        <em>
+         /
+        </em>
+        <a href="https://search.hksuning.com/search/list?ci=503306" name="hkpcCommon_hkCommon_65698119633_word02" target="_blank">
+         數碼
+        </a>
+        <em>
+         /
+        </em>
+        <a href="https://search.hksuning.com/search/list?ci=503305" name="hkpcCommon_hkCommon_65698119633_word03" target="_blank">
+         配件
+        </a>
+       </li>
+       <li class="hei33" name="hkpcCommon_hkCommon_menu_menu1-hover">
+        <i class="ng-iconfont">
+         
+        </i>
+        <a href="https://search.hksuning.com/search/list?ci=503265" name="hkpcCommon_hkCommon_65698119634_word01" target="_blank">
+         大型家庭電器
+        </a>
+       </li>
+       <li class="hei33" name="hkpcCommon_hkCommon_menu_menu1-hover">
+        <i class="ng-iconfont">
+         
+        </i>
+        <a href="https://search.hksuning.com/search/list?ci=503266" name="hkpcCommon_hkCommon_65698119635_word01" target="_blank">
+         廚電
+        </a>
+        <em>
+         /
+        </em>
+        <a href="https://search.hksuning.com/search/list?ci=504726" name="hkpcCommon_hkCommon_65698119635_word02" target="_blank">
+         浴室
+        </a>
+        <em>
+         /
+        </em>
+        <a href="https://search.hksuning.com/search/list?ci=504734" name="hkpcCommon_hkCommon_65698119635_word03" target="_blank">
+         生活電器
+        </a>
+       </li>
+       <li class="hei33" name="hkpcCommon_hkCommon_menu_menu1-hover">
+        <i class="ng-iconfont">
+         
+        </i>
+        <a href="https://search.hksuning.com/search/list?ci=503362" name="hkpcCommon_hkCommon_65698119636_word01" target="_blank">
+         電腦
+        </a>
+        <em>
+         /
+        </em>
+        <a href="https://search.hksuning.com/search/list?ci=503366" name="hkpcCommon_hkCommon_65698119636_word02" target="_blank">
+         辦公
+        </a>
+        <em>
+         /
+        </em>
+        <a href="https://search.hksuning.com/search/list?ci=503363" name="hkpcCommon_hkCommon_65698119636_word03" target="_blank">
+         外置配件
+        </a>
+       </li>
+       <li class="hei33" name="hkpcCommon_hkCommon_menu_menu1-hover">
+        <i class="ng-iconfont">
+         
+        </i>
+        <a href="https://search.hksuning.com/search/list?ci=503343" name="hkpcCommon_hkCommon_65698119637_word01" target="_blank">
+         日用
+        </a>
+        <em>
+         /
+        </em>
+        <a href="https://search.hksuning.com/search/list?ci=503346" name="hkpcCommon_hkCommon_65698119637_word02" target="_blank">
+         廚具
+        </a>
+        <em>
+         /
+        </em>
+        <a href="https://search.hksuning.com/search/list?ci=507313" name="hkpcCommon_hkCommon_65698119637_word03" target="_blank">
+         寵物
+        </a>
+       </li>
+       <li class="hei33" name="hkpcCommon_hkCommon_menu_menu1-hover">
+        <i class="ng-iconfont">
+         
+        </i>
+        <a href="https://search.hksuning.com/search/list?ci=503267" name="hkpcCommon_hkCommon_65698119638_word01" target="_blank">
+         彩妝
+        </a>
+        <em>
+         /
+        </em>
+        <a href="https://search.hksuning.com/search/list?ci=503350" name="hkpcCommon_hkCommon_65698119638_word02" target="_blank">
+         護膚
+        </a>
+        <em>
+         /
+        </em>
+        <a href="https://search.hksuning.com/search/list?ci=503349" name="hkpcCommon_hkCommon_65698119638_word03" target="_blank">
+         面部清潔
+        </a>
+       </li>
+       <li class="hei33" name="hkpcCommon_hkCommon_menu_menu1-hover">
+        <i class="ng-iconfont">
+         
+        </i>
+        <a href="https://search.hksuning.com/search/list?ci=507561" name="hkpcCommon_hkCommon_65698119639_word01" target="_blank">
+         食品
+        </a>
+        <em>
+         /
+        </em>
+        <a href="https://search.hksuning.com/search/list?ci=507601" name="hkpcCommon_hkCommon_65698119639_word02" target="_blank">
+         飲品
+        </a>
+        <em>
+         /
+        </em>
+        <a href="https://search.hksuning.com/search/list?ci=503240" name="hkpcCommon_hkCommon_65698119639_word03" target="_blank">
+         醫藥
+        </a>
+       </li>
+       <li class="hei33" name="hkpcCommon_hkCommon_menu_menu1-hover">
+        <i class="ng-iconfont">
+         
+        </i>
+        <a href="https://search.hksuning.com/search/list?ci=503286" name="hkpcCommon_hkCommon_65698119640_word01" target="_blank">
+         母嬰
+        </a>
+        <em>
+         /
+        </em>
+        <a href="https://search.hksuning.com/search/list?ci=503285" name="hkpcCommon_hkCommon_65698119640_word02" target="_blank">
+         餵育用品
+        </a>
+        <em>
+         /
+        </em>
+        <a href="https://search.hksuning.com/search/list?ci=503242" name="hkpcCommon_hkCommon_65698119640_word03" target="_blank">
+         洗護
+        </a>
+       </li>
+       <li class="hei33" name="hkpcCommon_hkCommon_menu_menu1-hover">
+        <i class="ng-iconfont">
+         
+        </i>
+        <a href="https://search.hksuning.com/search/list?ci=503247" name="hkpcCommon_hkCommon_65698119641_word01" target="_blank">
+         飾物
+        </a>
+        <em>
+         /
+        </em>
+        <a href="https://search.hksuning.com/search/list?ci=503251" name="hkpcCommon_hkCommon_65698119641_word02" target="_blank">
+         箱包
+        </a>
+        <em>
+         /
+        </em>
+        <a href="https://search.hksuning.com/search/list?ci=503237" name="hkpcCommon_hkCommon_65698119641_word03" target="_blank">
+         鐘錶
+        </a>
+        <em>
+         /
+        </em>
+        <a href="https://shop.hksuning.com/70882307/index.html" name="hkpcCommon_hkCommon_65698119641_word04" target="_blank">
+         女裝
+        </a>
+       </li>
+      </ul>
+      <div class="index-sort-detail">
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="ng-nav-index">
+    <ul class="ng-nav">
+     <li>
+      <a href="https://www.hksuning.com/pindao/hkmeizhuang.html" name=" hkpcCommon_hkCommon_65698121348_word01" target="_blank">
+       美妝護膚
+       <i class="hot">
+       </i>
+      </a>
+      <span>
+      </span>
+     </li>
+     <li>
+      <a href="https://www.hksuning.com/pindao/supermarket.html" name=" hkpcCommon_hkCommon_65698121348_word02" target="_blank">
+       蘇寧超市
+      </a>
+      <span>
+      </span>
+     </li>
+     <li>
+      <a href="https://www.hksuning.com/pindao/babyproducts.html" name=" hkpcCommon_hkCommon_65698121348_word03" target="_blank">
+       母嬰用品
+      </a>
+      <span>
+      </span>
+     </li>
+     <li>
+      <a href="https://www.hksuning.com/pindao/3cshuma.html" name=" hkpcCommon_hkCommon_65698121348_word04" target="_blank">
+       3C數碼
+      </a>
+      <span>
+      </span>
+     </li>
+     <li>
+      <a href="https://www.hksuning.com/pindao/appliances.html" name=" hkpcCommon_hkCommon_65698121348_word05" target="_blank">
+       家庭電器
+      </a>
+      <span>
+      </span>
+     </li>
+     <li>
+      <a href="https://www.hksuning.com/cuxiao/JW.html" name=" hkpcCommon_hkCommon_65698121348_word06" target="_blank">
+       蘇寧極物
+       <i class="hot">
+       </i>
+      </a>
+      <span>
+      </span>
+     </li>
+     <li>
+      <a href="https://www.hksuning.com/cuxiao/bestshop.html" name=" hkpcCommon_hkCommon_65698121348_word07" target="_blank">
+       商家推薦
+      </a>
+      <span>
+      </span>
+     </li>
+     <li>
+      <a href="https://qss.suning.com/f89bc.htm" name=" hkpcCommon_hkCommon_65698121348_word08" target="_blank">
+       商業查詢
+      </a>
+      <span>
+      </span>
+     </li>
+    </ul>
+   </div>
+  </div>
+  <script>
+   var snyghk = snHost.snyghk || '//www.hksuning.com';
+  var fourth = {};
+  </script>
+  <!-- 20190422 snpm埋点 -->
+  <meta content="true" name="autoclick"/>
+  <meta content="hkweb" name="siteid"/>
+  <meta content="1004" name="pageid"/>
+  <input id="productStatus" type="hidden" value="1"/>
+  <input id="vendorType" type="hidden" value="7"/>
+  <input id="shipOffset" type="hidden" value="1"/>
+  <input id="operatetype" type="hidden" value="0"/>
+  <input id="resourceType" type="hidden" value="hkweb"/>
+  <input id="mdmCityId" type="hidden" value="HK4"/>
+  <!-- 补充遗漏的送货城市埋点 -->
+  <input id="pagename" type="hidden" value="pgcate=10008;prdtp=6138;tag=100157;pgtitle=香港站PC四级页;prdid=11008663850;shopid=0000000000;supid=0000000000"/>
+  <div class="root1200" id="pcFourth">
+   <div class="wrapper">
+    <div class="breadcrumb">
+     <ul class="bc-list">
+      <li class="bc-item" data-category="503246">
+       <span>
+        <a href="javascript:;">
+         手機/數碼/配件
+        </a>
+       </span>
+       <ul class="dropdown-option" style="max-width: 400px">
+       </ul>
+      </li>
+      <i class="sep">
+       &gt;
+      </i>
+      <li class="bc-item dropdown" data-category="503304">
+       <span class="dropdown-text">
+        <a href="javascript:;">
+         手機通訊
+        </a>
+       </span>
+       <ul class="dropdown-option">
+       </ul>
+      </li>
+      <i class="sep">
+       &gt;
+      </i>
+      <li class="bc-item dropdown" data-category="503505">
+       <span class="dropdown-text">
+        <a href="javascript:;">
+         手機
+        </a>
+       </span>
+       <ul class="dropdown-option">
+       </ul>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div class="wrapper proinfo">
+    <div class="proinfo-container">
+     <div class="proinfo-left" sap-modid="02">
+      <div class="imgzoom">
+       <div class="imgzoom-main">
+        <img alt="" src="//imgservice.suning.cn/uimg1/b2c/image/MDpvQqaVY18UdiofsWgF7A.jpg_800w_800h_4e"/>
+        <div class="scroll-wrap-box">
+        </div>
+        <div class="imgzoom-shot">
+        </div>
+       </div>
+       <div class="imgzoom-video">
+       </div>
+       <div class="imgzoom-thumb">
+        <a class="prev prev-disable" href="javascript:void(0)" style="visibility: hidden;">
+        </a>
+        <div class="imgzoom-thumb-main">
+         <ul style="left: 0px;">
+          <li class="current">
+           <img alt="" src="//imgservice.suning.cn/uimg1/b2c/image/MDpvQqaVY18UdiofsWgF7A.jpg_60w_60h_4e" src-large="//imgservice.suning.cn/uimg1/b2c/image/MDpvQqaVY18UdiofsWgF7A.jpg_800w_800h_4e" src-medium="//imgservice.suning.cn/uimg1/b2c/image/MDpvQqaVY18UdiofsWgF7A.jpg_800w_800h_4e"/>
+          </li>
+          <li>
+           <img alt="" src="//imgservice.suning.cn/uimg1/b2c/image/hY83NsZTqWpvNxd-Ys1ELA.jpg_60w_60h_4e" src-large="//imgservice.suning.cn/uimg1/b2c/image/hY83NsZTqWpvNxd-Ys1ELA.jpg_800w_800h_4e" src-medium="//imgservice.suning.cn/uimg1/b2c/image/hY83NsZTqWpvNxd-Ys1ELA.jpg_800w_800h_4e"/>
+          </li>
+          <li>
+           <img alt="" src="//imgservice.suning.cn/uimg1/b2c/image/AW8IReXvWaNohO6I72ZE1A.jpg_60w_60h_4e" src-large="//imgservice.suning.cn/uimg1/b2c/image/AW8IReXvWaNohO6I72ZE1A.jpg_800w_800h_4e" src-medium="//imgservice.suning.cn/uimg1/b2c/image/AW8IReXvWaNohO6I72ZE1A.jpg_800w_800h_4e"/>
+          </li>
+          <li>
+           <img alt="" src="//imgservice.suning.cn/uimg1/b2c/image/Ae8bnmco1MqK1wZ96mSEtA.jpg_60w_60h_4e" src-large="//imgservice.suning.cn/uimg1/b2c/image/Ae8bnmco1MqK1wZ96mSEtA.jpg_800w_800h_4e" src-medium="//imgservice.suning.cn/uimg1/b2c/image/Ae8bnmco1MqK1wZ96mSEtA.jpg_800w_800h_4e"/>
+          </li>
+          <li>
+           <img alt="" src="//imgservice.suning.cn/uimg1/b2c/image/3tWqHVgQ8pYHkdoOFK1iZw.jpg_60w_60h_4e" src-large="//imgservice.suning.cn/uimg1/b2c/image/3tWqHVgQ8pYHkdoOFK1iZw.jpg_800w_800h_4e" src-medium="//imgservice.suning.cn/uimg1/b2c/image/3tWqHVgQ8pYHkdoOFK1iZw.jpg_800w_800h_4e"/>
+          </li>
+         </ul>
+        </div>
+        <a class="next next-disable" href="javascript:void(0)" style="visibility: hidden;">
+        </a>
+       </div>
+       <div class="imgzoom-pop">
+        <img/>
+       </div>
+      </div>
+      <div class="imgzoom-memo">
+       <div class="z-item favorite">
+        <a id="inerestBox" name="item_600037365_basic_favorite" sa-data="{'eletp':'prd','prdid':'11008663850','shopid':'0000000000','salestatus':'1'}">
+         <i>
+         </i>
+         收藏
+        </a>
+       </div>
+      </div>
+     </div>
+     <div class="proinfo-main" sap-modid="01" style="min-height: 581px;">
+      <div class="proinfo-title">
+       <h1>
+        <span class="autotrophy">
+         自營
+        </span>
+        <span class="ship-addr">
+         香港倉
+        </span>
+        HONOR View 20 8+256GB 智能手機 幻影藍
+       </h1>
+       <h2 class="promotion-desc">
+       </h2>
+       <p>
+        正品正貨，快速送達
+       </p>
+      </div>
+      <div class="dajuhui-panel" id="timePanel" style="display: none">
+       <!-- <section>
+    <div class="product-qiang">
+        <span class="djh-logo">限時秒殺</span>
+        <span class="djh-cd">
+            <i class="djh-icon"></i>
+            <span class="active-label" id="beginOrEnd">距搶購結束</span>
+            <span class="proinfo-cd">
+                <em class="d">00</em>
+                <span>天</span>
+                <em class="h">00</em>
+                <span>時</span>
+                <em class="m">56</em>
+                <span>分</span>
+                <em class="s">33.3</em>
+                <span>秒</span>
+            </span>
+            <div class="countdown-wrap"><p class="p1">距搶購結束</p>
+                <div class="time-box">
+                    <span class="time-block t1">01</span><em>天</em><span class="time-block t2">01</span><em>:</em>
+                    <span class="time-block t3">01</span><em>:</em><span class="time-block t4">01</span>
+                </div>
+            </div>
+        </span>
+        <span class="djh-count">
+            已搶<span></span>件
+        </span>
+    </div>
+</section> -->
+       <section class="product-main ju-main not-oversea-node">
+        <!-- <span class="djh-logo">限時秒殺</span> -->
+        <span class="product-qiang" id="productQiang" style="display: none;">
+        </span>
+        <span class="product-price">
+         <div id="act-ju-box">
+          <span class="img-ju">
+          </span>
+          <div class="ju-price-wrap">
+           <div class="price-count-wrap">
+            <div class="pricewrap">
+             <span class="price-now">
+              <i>
+               限時秒殺
+              </i>
+             </span>
+             <i class="djh-icon">
+             </i>
+             <div class="countdown-wrap">
+              <!-- <p class="p1">距搶購結束</p> -->
+              <div class="time-box">
+               <span class="time-block t1">
+                01
+               </span>
+               <em>
+                天
+               </em>
+               <span class="time-block t2">
+                01
+               </span>
+               <em>
+                時
+               </em>
+               <span class="time-block t3">
+                01
+               </span>
+               <em>
+                分
+               </em>
+               <span class="time-block t4">
+                01
+               </span>
+              </div>
+             </div>
+             <span class="price-origin">
+              <!-- <del><i></i></del> -->
+              <span class="img-word img-word-pointer">
+               已售
+               <span class="num">
+               </span>
+               件
+              </span>
+             </span>
+            </div>
+           </div>
+          </div>
+         </div>
+        </span>
+       </section>
+      </div>
+      <div class="proinfo-focus">
+       <div class="price-container">
+        <dl class="ref-price">
+         <dt class="letter-3">
+          參考價
+         </dt>
+         <dd>
+          $4899.00
+         </dd>
+        </dl>
+        <dl class="discount">
+         <dt class="letter-3">
+          蘇寧價
+         </dt>
+         <dd>
+          $
+          <span class="integer">
+           3499
+          </span>
+          <span>
+           .
+          </span>
+          <span class="decimal">
+           00
+          </span>
+         </dd>
+        </dl>
+        <dl class="coupon" style="display: none">
+         <dt class="letter-2">
+          領券
+         </dt>
+         <dd>
+          <div class="coupon-item">
+          </div>
+          <a class="coupon-more" href="javascript:;" name="hkitem_11008663850_promotion_coupon" style="display:none">
+           更多優惠券
+           <i>
+            &gt;
+           </i>
+          </a>
+         </dd>
+        </dl>
+        <dl class="sales-promo" style="display: none">
+         <dt class="letter-2">
+          促銷
+         </dt>
+         <dd class="promotion-item">
+          <!-- <a class="sales-promo-more" href="#">更多满减商品&nbsp;&gt;</a> -->
+         </dd>
+        </dl>
+        <div class="proinfo-comments" style="">
+         <h2>
+          纍計評價
+         </h2>
+         <a href="#pro_detail_tab">
+          3
+         </a>
+        </div>
+       </div>
+      </div>
+      <!-- <div class="proinfo-focus no-goods">
+                    <div class="price-container">
+                        <dl class="price-promo">
+                            <dt><span>易購價</span></dt>
+                            <dd>
+                                <span class="mainprice">
+                                    <i>$</i>
+                                    <span class=""></span>
+                                    <span></span>
+                                </span>
+                            </dd>
+                        </dl>
+                    </div>
+                </div> -->
+      <div class="proinfo-deliver">
+       <dl>
+        <dt class="letter-2">
+         送至
+        </dt>
+        <dd>
+         <div class="l" id="sncity">
+          <div class="ui-city">
+           <a class="ui-city-toggle" hidefocus="true" href="###">
+            <em class="address-placement">
+             <span class="pr dn" id="provinceName" role="HOK,HOK,,香港">
+              香港
+             </span>
+             <span class="ct" id="citybName" role="HK4,HK4,HK401,香港">
+              香港
+             </span>
+             <span class="ds" id="districtName" role="HK401,HK401,HK401,香港区">
+              香港区
+             </span>
+            </em>
+            <b class="arr">
+            </b>
+           </a>
+          </div>
+         </div>
+        </dd>
+        <dd class="tip">
+         <span class="has-goods">
+          有貨
+         </span>
+         <em class="tip-box">
+          <a class="freight-msg" hover-name="hkitem_11008663850_basic_carriage-detail">
+           249元免基礎運費
+          </a>
+          <div class="pop-tip">
+           <span class="freight-tip">
+            所選地址自營訂單滿249元免基礎運費，不足金額訂單收取49元/單基礎運費。
+           </span>
+           <i class="tri-pointer-up">
+            <i>
+            </i>
+           </i>
+          </div>
+         </em>
+        </dd>
+       </dl>
+       <dl>
+        <dd>
+         <span class="ship-text">
+          16:00前下單，預計明天（10月16日）送達
+         </span>
+         <span>
+          由
+          <b>
+           蘇寧
+          </b>
+          銷售和發貨
+                                
+                                ，並提供售後服務
+         </span>
+         <a class="contact-btn" href="javascript:;" name="hkitem_11008663850_basic_robot">
+          聯繫客服
+         </a>
+        </dd>
+       </dl>
+      </div>
+      <div class="proinfo-weight">
+       <dl>
+        <dt class="letter-2">
+         重量
+        </dt>
+        <dd class="freight-weigth">
+         不計重量
+        </dd>
+       </dl>
+      </div>
+      <div class="tzm" id="J-TZM">
+       <div class="divide-line">
+       </div>
+       <div class="proinfo-style">
+        <dl class="proattr-radio">
+         <dt class="letter-2">
+          顏色
+         </dt>
+         <dd>
+          <ul>
+           <li class="style-item" data-cid="10001" data-sku="11008663718" title="幻夜黑">
+            <a name="hkitem_11008663850_basic_gdtc-product" sa-data="{'eletp':'prd','prdid':'11008663850','shopid':'0000000000','salestatus':'1'}">
+             <img src="//imgservice.suning.cn/uimg1/b2c/image/miYC_AJBX5iE3cZM53TwKQ.jpg_60w_60h_4e"/>
+             <span>
+              幻夜黑
+             </span>
+             <i>
+             </i>
+            </a>
+           </li>
+           <li class="style-item selected" data-cid="10002" data-sku="11008663850" title="幻影藍">
+            <a name="hkitem_11008663850_basic_gdtc-product" sa-data="{'eletp':'prd','prdid':'11008663850','shopid':'0000000000','salestatus':'1'}">
+             <img src="//imgservice.suning.cn/uimg1/b2c/image/hY83NsZTqWpvNxd-Ys1ELA.jpg_60w_60h_4e"/>
+             <span>
+              幻影藍
+             </span>
+             <i>
+             </i>
+            </a>
+           </li>
+           <li class="style-item" data-cid="10003" data-sku="11008663653" title="魅海藍">
+            <a name="hkitem_11008663850_basic_gdtc-product" sa-data="{'eletp':'prd','prdid':'11008663850','shopid':'0000000000','salestatus':'1'}">
+             <img src="//imgservice.suning.cn/uimg1/b2c/image/_q8Ihke8O-H4vYXOP0MtRA.jpg_60w_60h_4e"/>
+             <span>
+              魅海藍
+             </span>
+             <i>
+             </i>
+            </a>
+           </li>
+          </ul>
+         </dd>
+        </dl>
+       </div>
+       <div class="tzm-border">
+        <div class="tip" id="nochooseInfo">
+         請選擇
+         <span class="color-tip" style="display: none">
+          顏色
+         </span>
+         <span class="version-tip" style="display: none">
+         </span>
+        </div>
+        <a class="close ng-iconfont" href="javascript:;">
+         
+        </a>
+       </div>
+       <div class="proinfo-num">
+        <dl>
+         <dt>
+          購買數量
+         </dt>
+         <dd>
+          <a class="func minus minus-disable" href="javascript:void(0);" sa-data="{'eletp':'prd','prdid':'11008663850','shopid':'0000000000','salestatus':'1'}">
+          </a>
+          <input id="buyNum" max="99" type="text" value="1"/>
+          <a class="func plus" href="javascript:void(0);" sa-data="{'eletp':'prd','prdid':'11008663850','shopid':'0000000000','salestatus':'1'}">
+          </a>
+          <span class="tip" id="productLimit" style="display: none">
+           每人限購
+           <em>
+           </em>
+           件，庫存緊張
+          </span>
+         </dd>
+        </dl>
+       </div>
+      </div>
+      <div class="main-btns">
+       <dd>
+        <ul class="clearfix">
+         <li class="btn-dark-buy">
+          <a name="hkitem_11008663850_basic_gdtc-buy" sa-data="{'eletp':'buynow','prdid':'11008663850','shopid':'0000000000','salestatus':'1'}">
+           立即購買
+          </a>
+         </li>
+         <li class="btn-orange-buy" id="btn-add-cart">
+          <a name="hkitem_11008663850_basic_gdtc-cart" sa-data="{'eletp':'addtocart','prdid':'11008663850','shopid':'0000000000','salestatus':'1'}">
+           加入購物車
+          </a>
+         </li>
+         <!-- <li class="qrcode-panel">
+                                <div class="qrc-wrapper">
+                                    <img class="b-img"/>
+                                </div>
+                                <div class="q-bottom">
+                                    <a hover-name="hkitem_11008663850_qrcode_hover">
+                                        <span class="s-img"></span>
+                                        <div class="q-text one-row">
+                                            <div class="cli-buy txt">掃一掃購買</div>
+                                        </div>
+                                        <i class="ng-iconfont">&#xe62e;</i>
+                                    </a>
+                                </div>
+                            </li> -->
+        </ul>
+       </dd>
+      </div>
+      <div class="proinfo-payment">
+       <dl>
+        <dt>
+         支付方式
+        </dt>
+        <dd>
+         <ul>
+          <li class="pay-item-1">
+           <i>
+           </i>
+          </li>
+          <li class="pay-item-2">
+           <i>
+           </i>
+          </li>
+          <li class="pay-item-3">
+           <i>
+           </i>
+          </li>
+         </ul>
+        </dd>
+       </dl>
+      </div>
+      <div class="proinfo-side si-view" id="seeAndSeeWrapper" sap-modid="07">
+       <div class="si-view-head">
+        <h3>
+         看了又看
+        </h3>
+       </div>
+       <div class="si-view-list" id="seeAndSee">
+        <div class="si-view-wrapper clearfix">
+         <ul>
+          <li>
+           <a class="product-img" href="//product.hksuning.com/0000000000/000000010584849492.html?src=hksjy_000000011008663850_rechkview_1-1_p_0000000000_000000010584849492_rec_26-1_2_A" id="baoguang_rechkview_1-1_0000000000_000000011008663850_rec_26-1_2_A" name="hksjy_000000011008663850_rechkview_1-1_p_0000000000_000000010584849492_rec_26-1_2_A" sa-data="{'eletp':'prd','prdid': '000000011008663850','shopid': '0000000000','recvalue':'rec_26-1_2_A','salestatus':'1'}" target="_blank">
+            <img alt="APPLE IPHONE XR 128GB 手機 白色" src="//image3.suning.cn/uimg/mcmp/hkcatentries/0000000000000000010584849492_5_120x120.jpg"/>
+           </a>
+           <p>
+            <span class="price">
+             <i>
+              $
+             </i>
+             <em>
+              5699.00
+             </em>
+            </span>
+            <a class="title" href="//product.hksuning.com/0000000000/000000010584849492.html?src=hksjy_000000011008663850_rechkview_1-1_c_0000000000_000000010584849492_rec_26-1_2_A" id="baoguang_rechkview_1-1_0000000000_000000011008663850_rec_26-1_2_A" name="hksjy_000000011008663850_rechkview_1-1_c_0000000000_000000010584849492_rec_26-1_2_A" sa-data="{'eletp':'prd','prdid': '000000011008663850','shopid': '0000000000','recvalue':'rec_26-1_2_A','salestatus':'1'}" target="_blank" title="APPLE IPHONE XR 128GB 手機 白色">
+             APPLE IPHONE XR 128GB 手機 白色
+            </a>
+           </p>
+          </li>
+          <li>
+           <a class="product-img" href="//product.hksuning.com/0000000000/000000010584849438.html?src=hksjy_000000011008663850_rechkview_1-2_p_0000000000_000000010584849438_rec_26-1_2_A" id="baoguang_rechkview_1-2_0000000000_000000011008663850_rec_26-1_2_A" name="hksjy_000000011008663850_rechkview_1-2_p_0000000000_000000010584849438_rec_26-1_2_A" sa-data="{'eletp':'prd','prdid': '000000011008663850','shopid': '0000000000','recvalue':'rec_26-1_2_A','salestatus':'1'}" target="_blank">
+            <img alt="APPLE IPHONE XR 64GB 手機 白色" src="//image3.suning.cn/uimg/mcmp/hkcatentries/0000000000000000010584849438_5_120x120.jpg"/>
+           </a>
+           <p>
+            <span class="price">
+             <i>
+              $
+             </i>
+             <em>
+              5199.00
+             </em>
+            </span>
+            <a class="title" href="//product.hksuning.com/0000000000/000000010584849438.html?src=hksjy_000000011008663850_rechkview_1-2_c_0000000000_000000010584849438_rec_26-1_2_A" id="baoguang_rechkview_1-2_0000000000_000000011008663850_rec_26-1_2_A" name="hksjy_000000011008663850_rechkview_1-2_c_0000000000_000000010584849438_rec_26-1_2_A" sa-data="{'eletp':'prd','prdid': '000000011008663850','shopid': '0000000000','recvalue':'rec_26-1_2_A','salestatus':'1'}" target="_blank" title="APPLE IPHONE XR 64GB 手機 白色">
+             APPLE IPHONE XR 64GB 手機 白色
+            </a>
+           </p>
+          </li>
+          <li>
+           <a class="product-img" href="//product.hksuning.com/0000000000/000000010584849494.html?src=hksjy_000000011008663850_rechkview_1-3_p_0000000000_000000010584849494_rec_26-1_2_A" id="baoguang_rechkview_1-3_0000000000_000000011008663850_rec_26-1_2_A" name="hksjy_000000011008663850_rechkview_1-3_p_0000000000_000000010584849494_rec_26-1_2_A" sa-data="{'eletp':'prd','prdid': '000000011008663850','shopid': '0000000000','recvalue':'rec_26-1_2_A','salestatus':'1'}" target="_blank">
+            <img alt="APPLE IPHONE XR 128GB 手機 黃色" src="//image3.suning.cn/uimg/mcmp/hkcatentries/0000000000000000010584849494_5_120x120.jpg"/>
+           </a>
+           <p>
+            <span class="price">
+             <i>
+              $
+             </i>
+             <em>
+              5699.00
+             </em>
+            </span>
+            <a class="title" href="//product.hksuning.com/0000000000/000000010584849494.html?src=hksjy_000000011008663850_rechkview_1-3_c_0000000000_000000010584849494_rec_26-1_2_A" id="baoguang_rechkview_1-3_0000000000_000000011008663850_rec_26-1_2_A" name="hksjy_000000011008663850_rechkview_1-3_c_0000000000_000000010584849494_rec_26-1_2_A" sa-data="{'eletp':'prd','prdid': '000000011008663850','shopid': '0000000000','recvalue':'rec_26-1_2_A','salestatus':'1'}" target="_blank" title="APPLE IPHONE XR 128GB 手機 黃色">
+             APPLE IPHONE XR 128GB 手機 黃色
+            </a>
+           </p>
+          </li>
+         </ul>
+         <ul>
+          <li>
+           <a class="product-img" href="//product.hksuning.com/0000000000/000000010584849457.html?src=hksjy_000000011008663850_rechkview_1-4_p_0000000000_000000010584849457_rec_26-1_2_A" id="baoguang_rechkview_1-4_0000000000_000000011008663850_rec_26-1_2_A" name="hksjy_000000011008663850_rechkview_1-4_p_0000000000_000000010584849457_rec_26-1_2_A" sa-data="{'eletp':'prd','prdid': '000000011008663850','shopid': '0000000000','recvalue':'rec_26-1_2_A','salestatus':'1'}" target="_blank">
+            <img alt="APPLE IPHONE XR 128GB 手機 黑色" src="//image3.suning.cn/uimg/mcmp/hkcatentries/0000000000000000010584849457_5_120x120.jpg"/>
+           </a>
+           <p>
+            <span class="price">
+             <i>
+              $
+             </i>
+             <em>
+              5699.00
+             </em>
+            </span>
+            <a class="title" href="//product.hksuning.com/0000000000/000000010584849457.html?src=hksjy_000000011008663850_rechkview_1-4_c_0000000000_000000010584849457_rec_26-1_2_A" id="baoguang_rechkview_1-4_0000000000_000000011008663850_rec_26-1_2_A" name="hksjy_000000011008663850_rechkview_1-4_c_0000000000_000000010584849457_rec_26-1_2_A" sa-data="{'eletp':'prd','prdid': '000000011008663850','shopid': '0000000000','recvalue':'rec_26-1_2_A','salestatus':'1'}" target="_blank" title="APPLE IPHONE XR 128GB 手機 黑色">
+             APPLE IPHONE XR 128GB 手機 黑色
+            </a>
+           </p>
+          </li>
+          <li>
+           <a class="product-img" href="//product.hksuning.com/0000000000/000000011020212654.html?src=hksjy_000000011008663850_rechkview_1-5_p_0000000000_000000011020212654_rec_26-1_2_A" id="baoguang_rechkview_1-5_0000000000_000000011008663850_rec_26-1_2_A" name="hksjy_000000011008663850_rechkview_1-5_p_0000000000_000000011020212654_rec_26-1_2_A" sa-data="{'eletp':'prd','prdid': '000000011008663850','shopid': '0000000000','recvalue':'rec_26-1_2_A','salestatus':'1'}" target="_blank">
+            <img alt="HUAWEI P30 LITE 6+128GB 智能手機 黑色" src="//image3.suning.cn/uimg/mcmp/hkcatentries/0000000000000000011020212654_5_120x120.jpg"/>
+           </a>
+           <p>
+            <span class="price">
+             <i>
+              $
+             </i>
+             <em>
+              2388.00
+             </em>
+            </span>
+            <a class="title" href="//product.hksuning.com/0000000000/000000011020212654.html?src=hksjy_000000011008663850_rechkview_1-5_c_0000000000_000000011020212654_rec_26-1_2_A" id="baoguang_rechkview_1-5_0000000000_000000011008663850_rec_26-1_2_A" name="hksjy_000000011008663850_rechkview_1-5_c_0000000000_000000011020212654_rec_26-1_2_A" sa-data="{'eletp':'prd','prdid': '000000011008663850','shopid': '0000000000','recvalue':'rec_26-1_2_A','salestatus':'1'}" target="_blank" title="HUAWEI P30 LITE 6+128GB 智能手機 黑色">
+             HUAWEI P30 LITE 6+128GB 智能手機 黑色
+            </a>
+           </p>
+          </li>
+          <li>
+           <a class="product-img" href="//product.hksuning.com/0000000000/000000010584849522.html?src=hksjy_000000011008663850_rechkview_1-6_p_0000000000_000000010584849522_rec_26-1_2_A" id="baoguang_rechkview_1-6_0000000000_000000011008663850_rec_26-1_2_A" name="hksjy_000000011008663850_rechkview_1-6_p_0000000000_000000010584849522_rec_26-1_2_A" sa-data="{'eletp':'prd','prdid': '000000011008663850','shopid': '0000000000','recvalue':'rec_26-1_2_A','salestatus':'1'}" target="_blank">
+            <img alt="APPLE IPHONE XR 128GB 手機 橙色" src="//image3.suning.cn/uimg/mcmp/hkcatentries/0000000000000000010584849522_5_120x120.jpg"/>
+           </a>
+           <p>
+            <span class="price">
+             <i>
+              $
+             </i>
+             <em>
+              5699.00
+             </em>
+            </span>
+            <a class="title" href="//product.hksuning.com/0000000000/000000010584849522.html?src=hksjy_000000011008663850_rechkview_1-6_c_0000000000_000000010584849522_rec_26-1_2_A" id="baoguang_rechkview_1-6_0000000000_000000011008663850_rec_26-1_2_A" name="hksjy_000000011008663850_rechkview_1-6_c_0000000000_000000010584849522_rec_26-1_2_A" sa-data="{'eletp':'prd','prdid': '000000011008663850','shopid': '0000000000','recvalue':'rec_26-1_2_A','salestatus':'1'}" target="_blank" title="APPLE IPHONE XR 128GB 手機 橙色">
+             APPLE IPHONE XR 128GB 手機 橙色
+            </a>
+           </p>
+          </li>
+         </ul>
+         <ul>
+          <li>
+           <a class="product-img" href="//product.hksuning.com/0000000000/000000010584849251.html?src=hksjy_000000011008663850_rechkview_1-7_p_0000000000_000000010584849251_rec_26-1_2_A" id="baoguang_rechkview_1-7_0000000000_000000011008663850_rec_26-1_2_A" name="hksjy_000000011008663850_rechkview_1-7_p_0000000000_000000010584849251_rec_26-1_2_A" sa-data="{'eletp':'prd','prdid': '000000011008663850','shopid': '0000000000','recvalue':'rec_26-1_2_A','salestatus':'1'}" target="_blank">
+            <img alt="APPLE IPHONE XS 512GB 手機 銀色" src="//image3.suning.cn/uimg/mcmp/hkcatentries/0000000000000000010584849251_5_120x120.jpg"/>
+           </a>
+           <p>
+            <span class="price">
+             <i>
+              $
+             </i>
+             <em>
+              10799.00
+             </em>
+            </span>
+            <a class="title" href="//product.hksuning.com/0000000000/000000010584849251.html?src=hksjy_000000011008663850_rechkview_1-7_c_0000000000_000000010584849251_rec_26-1_2_A" id="baoguang_rechkview_1-7_0000000000_000000011008663850_rec_26-1_2_A" name="hksjy_000000011008663850_rechkview_1-7_c_0000000000_000000010584849251_rec_26-1_2_A" sa-data="{'eletp':'prd','prdid': '000000011008663850','shopid': '0000000000','recvalue':'rec_26-1_2_A','salestatus':'1'}" target="_blank" title="APPLE IPHONE XS 512GB 手機 銀色">
+             APPLE IPHONE XS 512GB 手機 銀色
+            </a>
+           </p>
+          </li>
+          <li>
+           <a class="product-img" href="//product.hksuning.com/0070179219/000000000798657412.html?src=hksjy_000000011008663850_rechkview_1-8_p_0070179219_000000000798657412_rec_26-1_2_A" id="baoguang_rechkview_1-8_0070179219_000000011008663850_rec_26-1_2_A" name="hksjy_000000011008663850_rechkview_1-8_p_0070179219_000000000798657412_rec_26-1_2_A" sa-data="{'eletp':'prd','prdid': '000000011008663850','shopid': '0070179219','recvalue':'rec_26-1_2_A','salestatus':'1'}" target="_blank">
+            <img alt="Meitu 美圖T8s（MP1701）4GB+128GB 烈焰紅 自拍美顏 全網通 移動聯通電信4G手機" src="//image3.suning.cn/uimg/mcmp/hkcatentries/0070179219000000000798657412_5_120x120.jpg"/>
+           </a>
+           <p>
+            <span class="price">
+             <i>
+              $
+             </i>
+             <em>
+              4888.00
+             </em>
+            </span>
+            <a class="title" href="//product.hksuning.com/0070179219/000000000798657412.html?src=hksjy_000000011008663850_rechkview_1-8_c_0070179219_000000000798657412_rec_26-1_2_A" id="baoguang_rechkview_1-8_0070179219_000000011008663850_rec_26-1_2_A" name="hksjy_000000011008663850_rechkview_1-8_c_0070179219_000000000798657412_rec_26-1_2_A" sa-data="{'eletp':'prd','prdid': '000000011008663850','shopid': '0070179219','recvalue':'rec_26-1_2_A','salestatus':'1'}" target="_blank" title="Meitu 美圖T8s（MP1701）4GB+128GB 烈焰紅 自拍美顏 全網通 移動聯通電信4G手機">
+             Meitu 美圖T8s（MP1701）4GB+128GB 烈焰紅 自拍美顏 全網通 移動聯通電信4G手機
+            </a>
+           </p>
+          </li>
+          <li>
+           <a class="product-img" href="//product.hksuning.com/0000000000/000000011191799765.html?src=hksjy_000000011008663850_rechkview_1-9_p_0000000000_000000011191799765_rec_26-1_2_A" id="baoguang_rechkview_1-9_0000000000_000000011008663850_rec_26-1_2_A" name="hksjy_000000011008663850_rechkview_1-9_p_0000000000_000000011191799765_rec_26-1_2_A" sa-data="{'eletp':'prd','prdid': '000000011008663850','shopid': '0000000000','recvalue':'rec_26-1_2_A','salestatus':'1'}" target="_blank">
+            <img alt="華為/HUAWEI Y9 Prime 2019 手機 寶石藍" src="//image3.suning.cn/uimg/mcmp/hkcatentries/0000000000000000011191799765_5_120x120.jpg"/>
+           </a>
+           <p>
+            <span class="price">
+             <i>
+              $
+             </i>
+             <em>
+              1888.00
+             </em>
+            </span>
+            <a class="title" href="//product.hksuning.com/0000000000/000000011191799765.html?src=hksjy_000000011008663850_rechkview_1-9_c_0000000000_000000011191799765_rec_26-1_2_A" id="baoguang_rechkview_1-9_0000000000_000000011008663850_rec_26-1_2_A" name="hksjy_000000011008663850_rechkview_1-9_c_0000000000_000000011191799765_rec_26-1_2_A" sa-data="{'eletp':'prd','prdid': '000000011008663850','shopid': '0000000000','recvalue':'rec_26-1_2_A','salestatus':'1'}" target="_blank" title="華為/HUAWEI Y9 Prime 2019 手機 寶石藍">
+             華為/HUAWEI Y9 Prime 2019 手機 寶石藍
+            </a>
+           </p>
+          </li>
+         </ul>
+        </div>
+       </div>
+       <div class="pages-container" style="">
+        <a class="l-arrow prev" href="javascript:;">
+        </a>
+        <span class="pages-dot">
+         <span class="page-dot current" data-page="0">
+         </span>
+         <span class="page-dot" data-page="1">
+         </span>
+         <span class="page-dot" data-page="2">
+         </span>
+        </span>
+        <a class="r-arrow next" href="javascript:;">
+        </a>
+       </div>
+      </div>
+      <div class="proinfo-share">
+       <dl>
+        <dt class="letter-2">
+         分享
+        </dt>
+        <dd>
+         <ul>
+          <li>
+           <a class="weibo" href="http://v.t.sina.com.cn/share/share.php?url=https://product.hksuning.com/0000000000/11008663850.html&amp;appkey=400813291&amp;title=HONOR%20View%2020%208%2B256GB%20%E6%99%BA%E8%83%BD%E6%89%8B%E6%A9%9F%20%E5%B9%BB%E5%BD%B1%E8%97%8D%E9%A6%99%E6%B8%AF%E8%98%87%E5%AF%A7%E8%AE%93%E6%82%A8%E7%9B%A1%E4%BA%AB%E8%B3%BC%E7%89%A9%E6%A8%82%E8%B6%A3%EF%BC%88%E5%88%86%E4%BA%AB%E8%87%AA%20%40%E9%A6%99%E6%B8%AF%E8%98%87%E5%AF%A7%EF%BC%89&amp;pic=" name="hkitem_11008663850_basic_share" target="_blank">
+           </a>
+          </li>
+         </ul>
+        </dd>
+       </dl>
+      </div>
+     </div>
+    </div>
+   </div>
+   <!-- 图片浏览弹窗开始 [[ -->
+   <div class="imgview">
+    <div class="imgview-head">
+     查看大圖
+    </div>
+    <div class="imgview-main">
+     <!-- <img onerror="javascript:this.src='//res.suning.cn/project/pdsWeb/images/blank_pic_800.jpg'" src="//imgservice.suning.cn/uimg1/b2c/image/MDpvQqaVY18UdiofsWgF7A.jpg_800w_800h_4e" /> -->
+     <img src="//imgservice.suning.cn/uimg1/b2c/image/MDpvQqaVY18UdiofsWgF7A.jpg_800w_800h_4e"/>
+     <div class="mask-l">
+     </div>
+     <div class="mask-r">
+     </div>
+     <div class="imgview-count">
+      <em>
+       1
+      </em>
+      /
+      <span>
+       5
+      </span>
+     </div>
+    </div>
+    <div class="imgview-thumb imgview-thumb-single">
+     <a class="btn-dir prev prev-disable" href="javascript:void(0);">
+     </a>
+     <div class="imgview-thumb-main">
+      <ul style="top: 0px;">
+       <li>
+        <a href="javascript:void(0);">
+         <img alt="" src="//imgservice.suning.cn/uimg1/b2c/image/MDpvQqaVY18UdiofsWgF7A.jpg_60w_60h_4e" src-large="//imgservice.suning.cn/uimg1/b2c/image/MDpvQqaVY18UdiofsWgF7A.jpg_800w_800h_4e"/>
+        </a>
+       </li>
+       <li>
+        <a href="javascript:void(0);">
+         <img alt="" src="//imgservice.suning.cn/uimg1/b2c/image/hY83NsZTqWpvNxd-Ys1ELA.jpg_60w_60h_4e" src-large="//imgservice.suning.cn/uimg1/b2c/image/hY83NsZTqWpvNxd-Ys1ELA.jpg_800w_800h_4e"/>
+        </a>
+       </li>
+       <li>
+        <a href="javascript:void(0);">
+         <img alt="" src="//imgservice.suning.cn/uimg1/b2c/image/AW8IReXvWaNohO6I72ZE1A.jpg_60w_60h_4e" src-large="//imgservice.suning.cn/uimg1/b2c/image/AW8IReXvWaNohO6I72ZE1A.jpg_800w_800h_4e"/>
+        </a>
+       </li>
+       <li>
+        <a href="javascript:void(0);">
+         <img alt="" src="//imgservice.suning.cn/uimg1/b2c/image/Ae8bnmco1MqK1wZ96mSEtA.jpg_60w_60h_4e" src-large="//imgservice.suning.cn/uimg1/b2c/image/Ae8bnmco1MqK1wZ96mSEtA.jpg_800w_800h_4e"/>
+        </a>
+       </li>
+       <li>
+        <a href="javascript:void(0);">
+         <img alt="" src="//imgservice.suning.cn/uimg1/b2c/image/3tWqHVgQ8pYHkdoOFK1iZw.jpg_60w_60h_4e" src-large="//imgservice.suning.cn/uimg1/b2c/image/3tWqHVgQ8pYHkdoOFK1iZw.jpg_800w_800h_4e"/>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <a class="btn-dir next" href="javascript:void(0);">
+     </a>
+    </div>
+    <a class="close" href="javascript:void(0);">
+     ×
+    </a>
+   </div>
+   <!-- 图片浏览弹窗结束 ]] -->
+   <div class="wrapper mt15">
+    <div class="procon-side">
+     <div class="si-intro" sap-modid="03">
+      <div class="si-intro-head">
+       <div class="bg-line">
+       </div>
+       <h4 class="si-intro-head-zy">
+        蘇寧自營
+       </h4>
+      </div>
+      <div class="si-intro-list">
+       <dl>
+        <dt>
+         商家：
+        </dt>
+        <dd>
+         香港蘇寧
+        </dd>
+       </dl>
+       <dl>
+        <dt>
+         聯繫：
+        </dt>
+        <dd class="contact">
+         <a class="contact-btn" href="javascript:;" name="hkitem_11008663850_shop_agent">
+          在綫客服
+         </a>
+        </dd>
+       </dl>
+      </div>
+      <!-- <div class="si-intro-trend">
+                    <ul>
+                        <li>
+                            <h6>商品</h6>
+                            <span>4.86</span>
+                        </li>
+                        <li>
+                            <h6>服務</h6>
+                            <span>4.89</span>
+                        </li>
+                        <li>
+                            <h6>物流</h6>
+                            <span>4.90</span>
+                        </li>
+                    </ul>
+                </div> -->
+     </div>
+     <div class="si-view" id="seeAndSeeDWrapper">
+     </div>
+    </div>
+    <div class="procon">
+     <div class="procon-toolbar" id="pro_detail_tab" sap-modid="13">
+      <div class="container">
+       <div class="fix-store">
+        <h3>
+         <a href="javascript:;">
+          香港蘇寧
+         </a>
+        </h3>
+        <a class="l-icon contact-btn" href="javascript:;">
+        </a>
+       </div>
+       <div class="fix-area">
+        <!-- <div class="fix-qrcode">
+                            <span>手機掃碼購買</span>
+                            <em class="qr-icon"></em>
+                            <i class="arr-icon ng-iconfont down-i">&#xe62e;</i>
+                            <i class="arr-icon ng-iconfont up-i">&#xe63a;</i>
+                            <div class="qrc-wrapper">
+                                <img onerror="javascript:$('.fix-qrcode').hide();" class="qr-img">
+                            </div>
+                        </div> -->
+        <div class="add-cart">
+         <a class="btn-orange-mini" id="btn-add-cart" name="hkitem_11008663850_basic_gdtc-cart" sa-data="{'eletp':'addtocart','prdid':'11008663850','shopid':'0000000000','salestatus':'1'}">
+          加入購物車
+         </a>
+        </div>
+        <ul class="tabarea-list">
+         <li class="active" rel="#J-procon-desc">
+          <a>
+           商品詳情
+          </a>
+         </li>
+         <li rel="#J-procon-param">
+          <a>
+           規格
+          </a>
+         </li>
+         <li id="commentNum" rel="#J-procon-comment">
+          <a>
+           評價
+           <span>
+            （3）
+           </span>
+          </a>
+         </li>
+         <li rel="#J-procon-faq">
+          <a>
+           常見問題
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+     <div class="tabarea-content p20" id="J-procon-desc">
+      <div class="pro-detail-pics">
+       <div moduleid="R1901001_3" modulename="商品详情">
+        <p>
+         l   World’s 1
+         <sup>
+          st
+         </sup>
+         48MP camera TOF 3D camera
+        </p>
+        <p>
+         l   Kirin 980, world’s 1
+         <sup>
+          st
+         </sup>
+         Dual-NPU chipset
+        </p>
+        <p>
+         l   In-screen camera design with a narrowest 4.5mm opening
+        </p>
+        <p>
+         l   World’s 1st Aurora Nanotexture
+        </p>
+        <p>
+        </p>
+        <p>
+         Product Specifications
+        </p>
+        <p>
+        </p>
+        <p>
+         l   6.4” FHD (2310 x 1080) IPS display
+        </p>
+        <p>
+         l   Built-in Kirin 980 chipset, Octa-core 2 x Enyo 2.5G 2 x Enyo 2.0G 4 x Ananke 1.8G
+        </p>
+        <p>
+         l   Storage: 6GB ram 128GB rom / 8GB ram 256GB rom
+        </p>
+        <p>
+         l   Camera: 48 mega-pixel (F/1.8) rear camera ToF 3D camera, 25 mega-pixel (F/2.0) front camera
+        </p>
+        <p>
+         l   Network: TD-LTE 38/40/41, FDD-LTE B1/2/3/4/5/6/7/8/19/20/28, WCDMA B1/2/4/5/6/8/19, GSM B2/3/5/8
+        </p>
+        <p>
+         l   High capacity 4000mAh battery, plus 4.5V/5A HONOR SuperCharge
+        </p>
+        <p>
+         l   Bluetooth 5.0, NFC supported, Wifi, GPS, fingerprint sensor
+        </p>
+       </div>
+       <div moduleid="R1901001_5" modulename="常见问题">
+        <p>
+         -
+        </p>
+       </div>
+       <div moduleid="R1901001_6" modulename="售后服务">
+        <p>
+         -
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="tabarea-content p20" id="J-procon-param" style="display: none">
+      <div id="fourth-parameters">
+       <ul>
+        <li class="param-list">
+         <dl>
+          <dt class="param-title">
+           <h1>
+            主体
+           </h1>
+          </dt>
+          <dd class="param-content">
+           <ul>
+            <li class="param-name param0">
+             <h6>
+              品牌
+             </h6>
+            </li>
+            <li class="param-val param0">
+             荣耀(honor)
+            </li>
+           </ul>
+          </dd>
+         </dl>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="tabarea-content" id="J-procon-comment" style="display: none">
+      <div class="mt10" id="appraise">
+      </div>
+     </div>
+     <div class="tabarea-content procon-faq" id="J-procon-faq" style="display: none">
+      <section>
+       <div class="area-head">
+        <h3>
+         售後保障
+        </h3>
+       </div>
+       <div class="after-market" id="afterService">
+        <div class="after-market-hd" id="snService">
+         <h4>
+          蘇寧服務
+         </h4>
+        </div>
+        <div class="after-market-cnt" id="snServiceContent">
+         <ul class="sn-promise">
+          <li class="pms-item legitimate" id="zpService">
+           <div class="r-info">
+            <h3>
+             正貨保證
+            </h3>
+            <p>
+             為本港消費者提供購物便利及多元化選擇，全部貨品均為正品正貨。
+            </p>
+           </div>
+          </li>
+          <li class="pms-item service">
+           <div class="r-info">
+            <h3>
+             優質服務
+            </h3>
+            <p>
+             由專人接聽客服熱線，解答售前查詢及安排售後服務。我們將會在產品種類及服務內容上不斷改進，令網上購物體驗更為完善。更獲得由香港旅遊發展局頒發十年優質服務認可資格。
+            </p>
+           </div>
+          </li>
+          <li class="pms-item free-freight">
+           <div class="r-info">
+            <h3>
+             運費規則
+            </h3>
+            <p>
+             香港倉滿$399或以上，深圳倉滿$399或以上免運费，不滿將會收取$49作運費, 住宅和偏遠地區(如：東涌/馬灣/愉景灣)可能收取額外附加費用(費用由運輸收取), 可以致電客戶服務熱線2388 0116查詢。
+            </p>
+           </div>
+          </li>
+          <li class="pms-item guarantee" id="szService">
+           <div class="r-info">
+            <h3>
+             購物保障
+            </h3>
+            <p>
+             手提電話及Microsoft Surface系列享有7天購物保障。
+                                電器產品則享有10天購物保障。
+                                化妝，保健品、食品、生活百貨產品，簽收後概不負責。
+                                (此保障並不適用於任何Apple產品、個人護理產品及平行進口貨品。)
+            </p>
+           </div>
+          </li>
+         </ul>
+        </div>
+        <div id="amServiceContent">
+         <div class="after-market-hd" id="suningService">
+          <h4>
+           售後服務
+          </h4>
+         </div>
+         <div class="after-market-cnt">
+          <div class="guarantees">
+           <p class="mb20" id="productService">
+            <b>
+             售後服務電話：
+            </b>
+            +85223880116
+           </p>
+           <p>
+            <b>
+             服務承諾：
+            </b>
+            蘇寧網上商店，旨在為本港消費者提供購物便利及多元化選擇，產品種類包括各類型之家庭電器、電子產品、美容產品及營養補充品，全部貨品均為正品正貨。如您購物環節遇到任何問題，可聯繫客服人員，我們會盡心為您處理問題。網站為您提供的送貨、安裝等服務可能需收取額外的費用。
+           </p>
+          </div>
+         </div>
+         <div class="after-market-hd">
+          <h4>
+           退/換貨方法
+          </h4>
+          <span class="opt">
+          </span>
+         </div>
+         <div class="after-market-cnt">
+          <div class="return-process">
+           <img alt="退\換貨流程圖" src="//res.suning.cn/project/hongkong/fourth/pc/images/return-process-self.jpg"/>
+          </div>
+         </div>
+        </div>
+       </div>
+      </section>
+     </div>
+    </div>
+   </div>
+   <input id="HKSearchCategoryId" name="HKSearchCategory" type="hidden" value=""/>
+  </div>
+  <!-- 通用提示框 [[-->
+  <div class="pro-pop gray6 hide" id="proPop">
+   <div class="pop-up fix">
+    <a class="close-btn" href="javascript:void(0)" id="proPopCloseBtn" title="关闭">
+     x
+    </a>
+   </div>
+   <div class="pop-main pop-main-normal fix">
+    <em class="tipIcon">
+    </em>
+    <div class="msg">
+     <strong>
+      您已成功将商品加入收藏夹
+     </strong>
+     <p style="font-size:12px;">
+      查看
+      <a href="#">
+       我的收藏夹
+      </a>
+     </p>
+    </div>
+   </div>
+   <div class="pop-down">
+    <a class="pop-btn" href="javascript:;" id="proPopSubmit">
+     確定
+    </a>
+   </div>
+  </div>
+  <!-- 通用提示框 ]]-->
+  <!-- 通用遮罩层开始 [[ -->
+  <div class="overlay" id="J-overlay">
+   <div class="overlay-main">
+   </div>
+  </div>
+  <!-- 通用遮罩层结束 ]] -->
+  <script src="//dt.suning.com/detect/dt/detect.js">
+  </script>
+  <script src="//dt.suning.com/detect/dt/siller.js">
+  </script>
+  <script src="//res.suning.cn/project/tspofc/js/fcPop.js">
+  </script>
+  <!-- 821  uom埋点 -->
+  <script src="//res.suning.cn/javascript/sn_da/sa-analytics.js">
+  </script>
+  <div class="clear">
+  </div>
+  <div class="ng-footer">
+   <div class="ng-ser-box">
+    <div class="ng-ser-box-con">
+     <div class="ng-promise">
+      <dl>
+       <dt>
+        <a href="javascript:void(0);" name="" rel="nofollow">
+         <img alt="正貨保證" src="//res.suning.cn/project/hongkong/common/images/zb.png?=2618425"/>
+        </a>
+       </dt>
+       <dd>
+        <p>
+         <strong>
+          <a href="javascript:void(0);" name="" rel="nofollow">
+           正品保障
+          </a>
+         </strong>
+        </p>
+       </dd>
+      </dl>
+      <dl>
+       <dt>
+        <a href="javascript:void(0);" name="" rel="nofollow">
+         <img alt="優質服務" src="//res.suning.cn/project/hongkong/common/images/yw.png?v=2618425"/>
+        </a>
+       </dt>
+       <dd>
+        <p>
+         <strong>
+          <a href="javascript:void(0);" name="" rel="nofollow">
+           優質服務
+          </a>
+         </strong>
+        </p>
+       </dd>
+      </dl>
+      <dl>
+       <dt>
+        <a href="javascript:void(0);" name="" rel="nofollow">
+         <img alt="自營滿$399免運費" src="//res.suning.cn/project/hongkong/common/images/yf.png?v=2618425"/>
+        </a>
+       </dt>
+       <dd>
+        <p>
+         <strong>
+          <a href="javascript:void(0);" name="" rel="nofollow">
+           自營滿$399免運費
+          </a>
+         </strong>
+        </p>
+        <p>
+         受相關條款約束
+        </p>
+       </dd>
+      </dl>
+      <dl>
+       <dt>
+        <a href="javascript:void(0);" name="" rel="nofollow">
+         <img alt="商品保管" src="//res.suning.cn/project/hongkong/common/images/sg.png?v=2618425"/>
+        </a>
+       </dt>
+       <dd>
+        <p>
+         <strong>
+          <a href="javascript:void(0);" name="" rel="nofollow">
+           商品保管
+          </a>
+         </strong>
+        </p>
+       </dd>
+      </dl>
+      <dl>
+       <dt>
+        <a href="javascript:void(0);" name="" rel="nofollow">
+         <img alt="購物保障" src="//res.suning.cn/project/hongkong/common/images/gb.png?v=2618425"/>
+        </a>
+       </dt>
+       <dd>
+        <p>
+         <strong>
+          <a href="javascript:void(0);" name="" rel="nofollow">
+           購物保障
+          </a>
+         </strong>
+        </p>
+       </dd>
+      </dl>
+      <div class="clear">
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="ng-helper-box">
+    <dl class="dl-first">
+     <dt>
+      我的蘇寧
+     </dt>
+     <dd>
+      <a href="//www.hksuning.com/myCoupon.html" name="hkpcCommon_hkCommon_rear_coupon" rel="nofollow" target="_blank">
+       我的優惠券
+      </a>
+     </dd>
+     <dd>
+      <a href="//www.hksuning.com/score/myScore.html" name="hkpcCommon_hkCommon_rear_credit" rel="nofollow" target="_blank">
+       我的積分
+      </a>
+     </dd>
+    </dl>
+    <dl class="dl-sec">
+     <dt>
+      付款方式
+     </dt>
+     <dd class="pay-way">
+      <img alt="visa" height="19" src="//res.suning.cn/project/hongkong/common/images/Visa.png?v=2618425" title="visa" width="60"/>
+      <img alt="masterCard" height="36" src="//res.suning.cn/project/hongkong/common/images/master.png?v=2618425" title="masterCard" width="60"/>
+      <img alt="UnionPay" height="39" src="//res.suning.cn/project/hongkong/common/images/un.png?v=2618425" title="UnionPay" width="60"/>
+      <img alt="八達通" height="40" src="//res.suning.cn/project/hongkong/common/images/bdt.png?v=2618425" style="display:none;" width="60"/>
+      <img alt="SamsungPay" height="28.5" src="//res.suning.cn/project/hongkong/common/images/samsungPay.png?v=2618425" title="SamsungPay" width="60"/>
+     </dd>
+    </dl>
+    <dl class="dl-third">
+     <dt>
+      客戶服務
+     </dt>
+     <dd class="is-1115-hide">
+      <a href="//service.hksuning.com/pc/sNHelpCenterController/index.do" name="hkpcCommon_hkCommon_rear_helpcenter" rel="nofollow" target="_blank">
+       幫助中心
+      </a>
+     </dd>
+     <dd>
+      <a href="https://www.hksuning.com/cuxiao/address.html" name="hkpcCommon_hkCommon_rear_shop" rel="nofollow" target="_blank">
+       門店地址
+      </a>
+     </dd>
+     <dd>
+      <a href="//www.hksuning.com/cuxiao/offlinepro.html" name="hkpcCommon_hkCommon_rear_cuxiao" rel="nofollow" target="_blank">
+       推廣優惠
+      </a>
+     </dd>
+     <dd>
+      <a href="//ued.suning.com/survey/view/xianggang" name="hkpcCommon_hkCommon_rear_voc" rel="nofollow" target="_blank">
+       問卷調查
+      </a>
+     </dd>
+     <dd>
+      <a href="javascript:void(0);" id="OnlineService" name="hkpcCommon_hkCommon_rear_agent" rel="nofollow">
+       在線咨詢
+      </a>
+     </dd>
+     <dd>
+      <a href="//sop.hksuning.com/" name="hkpcCommon_hkCommon_rear_join" rel="nofollow" target="_blank">
+       商店加盟
+      </a>
+     </dd>
+    </dl>
+    <dl class="dl-fourth">
+     <dt>
+      資料查詢
+     </dt>
+     <dd>
+      <a href="//service.hksuning.com/pc/sNHelpCenterController/index.do?type=2" name="hkpcCommon_hkCommon_rear_deliver" rel="nofollow" target="_blank">
+       配送安裝
+      </a>
+     </dd>
+     <dd>
+      <a href="//service.hksuning.com/pc/sNHelpCenterController/index.do?type=3" name="hkpcCommon_hkCommon_rear_intall" rel="nofollow" target="_blank">
+       售後服務
+      </a>
+     </dd>
+     <dd>
+      <a href="//service.hksuning.com/pc/sNHelpCenterController/index.do?type=4" name="hkpcCommon_hkCommon_rear_guarantee" rel="nofollow" target="_blank">
+       退換貨規則
+      </a>
+     </dd>
+     <dd>
+      <a href="//service.hksuning.com/pc/sNHelpCenterController/index.do?type=5" name="hkpcCommon_hkCommon_rear_faq" rel="nofollow" target="_blank">
+       隱私申明
+      </a>
+     </dd>
+    </dl>
+    <dl class="dl-fifth">
+     <dt>
+      關注我們
+     </dt>
+     <dd class="follow-us">
+      <a class="face-book bg-hk" href="//www.facebook.com/HongKongSuning/" name="hkpcCommon_hkCommon_rear_facebook" rel="nofollow" target="_blank">
+      </a>
+      <a class="sina-weibo bg-hk" href="//weibo.com/hksuning" name="hkpcCommon_hkCommon_rear_weibo" rel="nofollow" target="_blank">
+      </a>
+      <a class="tx-weixin bg-hk" href="javascript:void(0);" name="hkpcCommon_hkCommon_rear_wechat" rel="nofollow">
+       <p class="wx-qrcode">
+        <img alt="" height="140" src="//res.suning.cn/project/hongkong/common/images/qrCode.png?v=2618425" width="120"/>
+       </p>
+      </a>
+      <a class="youtube bg-hk" href="//www.youtube.com/user/citicallmktg" name="hkpcCommon_hkCommon_rear_youtube" rel="nofollow" target="_blank">
+      </a>
+     </dd>
+     <a class="hk-join" href="//www.hksuning.com/pindao/career.html" name="hkpcCommon_hkCommon_rear_joinus" rel="nofollow" target="_blank">
+      人才招聘
+     </a>
+    </dl>
+    <dl class="dl-sixth">
+     <dt>
+      蘇寧主站
+     </dt>
+     <dd>
+      <a href="//www.suning.com" name="hkpcCommon_hkCommon_rear_suning" rel="nofollow" target="_blank">
+       <img alt="苏宁易购" height="39" src="//res.suning.cn/project/hongkong/common/images/zz.png?v=2618425" width="120"/>
+      </a>
+     </dd>
+    </dl>
+    <dl class="dl-sev">
+     <dt>
+      手機蘇寧
+     </dt>
+     <dd>
+      <a href="https://itunes.apple.com/cn/app/id1315526310?mt=8" name="hkpcCommon_hkCommon_rear_appstore" rel="nofollow" target="blank">
+       <img alt="app store" height="40" src="//res.suning.cn/project/hongkong/common/images/ios.png?v=2618425" width="120"/>
+      </a>
+      <a href="https://play.google.com/store/apps/details?id=com.suning.mobile.hkebuy" name="hkpcCommon_hkCommon_rear_google" rel="nofollow" target="blank">
+       <img alt="google pay" height="40" src="//res.suning.cn/project/hongkong/common/images/android.png?v=2618425" width="120"/>
+      </a>
+     </dd>
+    </dl>
+   </div>
+   <p class="ng-copyright">
+    Copyright © 2017-2019 蘇寧 hksuning.com 版權所有
+    <span>
+     |
+    </span>
+    <a class="police-sign" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=32010202010513" target="_blank">
+     <i>
+     </i>
+     <span class="sign-text">
+      蘇公網安備 32010202010513號
+     </span>
+    </a>
+    <span>
+     |
+    </span>
+    <a href="http://www.beian.miit.gov.cn" style="color:#999" target="_blank">
+     蘇ICP備17059172號
+    </a>
+    <span>
+     |
+    </span>
+    <a href="//res.suning.cn/public/v3/images/dx5006.png" rel="nofollow" style="color:#999" target="_blank">
+     合字 B2-20180025
+    </a>
+    <span>
+     |
+    </span>
+    <a href="http://218.94.38.245/mbm/entweb/elec/certView.shtml?siteId=27cfad762f3d45069d79a9f8f83f458f" rel="nofollow" style="color:#999" target="_blank">
+     電子營業執照
+    </a>
+   </p>
+   <p class="ng-copyright">
+    本網站直接或間接向消費者推銷商品或者服務的商業宣傳均屬于“廣告”（包裝及參數、售後保障等商品信息除外）
+   </p>
+  </div>
+  <div class="ng-fix-bar" style="display: none;">
+  </div>
+  <input id="resourceType" type="hidden" value="hkweb"/>
+  <script type="text/javascript">
+   var onlineService = document.getElementById('OnlineService');
+     onlineService.onclick = function(e){
+         if(typeof talkpass  == 'function'){
+            talkpass();
+         }
+     }
+    function _getJsFilePath(js_file){
+        return "//res.suning.cn/javascript/sn_da/" +js_file;
+    }
+    var isArray = function(obj) {
+        return Object.prototype.toString.call(obj) === '[object Array]';
+    }
+    var windowOnLoadEventQueue = [];
+    var scriptOnLoadEventQueue = [];
+    window.onload = function() {
+        for ( var i=0 ;i< windowOnLoadEventQueue.length;i++) {
+            windowOnLoadEventQueue[i]();
+        }
+    }
+    function addOnLoad(func) {
+        windowOnLoadEventQueue = windowOnLoadEventQueue.concat(func);
+    }
+    var lazyScriptMap = {};
+    function lazyLoadScript(src, callback) {
+        if (!lazyScriptMap[src]) {
+            lazyScriptMap[src] = callback;
+            var scriptNode = document.createElement("script");
+            if ('function' === typeof callback) {
+                if (!/msie/i.test(navigator.userAgent.toLowerCase())) {
+                    scriptNode.onload = callback;
+                }
+                scriptNode.onreadystatechange = function() {
+                    if ("loaded" == scriptNode.readyState
+                        || "complete" == scriptNode.readyState) {
+                        callback();
+                    }
+                }
+            } else if (isArray(callback)) {
+                var callbackSequence = function() {
+                    for ( var i = 0; i < callback.length; i++) {
+                        (callback[i])();
+                    }
+                };
+                scriptNode.onload = callbackSequence;
+                scriptNode.onreadystatechange = function() {
+                    if ("loaded" == scriptNode.readyState
+                        || "complete" == scriptNode.readyState) {
+                        callbackSequence();
+                    }
+                }
+            }
+            scriptNode.type = "text/javascript";
+            scriptNode.src = src;
+            var scriptContainer = document.getElementsByTagName("head")[0];
+            scriptContainer.appendChild(scriptNode);
+        } else {
+        }
+    }
+    function lazyLoadScripts(srcs, callback) {
+        var srcNum = srcs.length;
+        var loadingProgress = 0;
+        if (srcNum > 0) {
+            for ( var i = 0; i < srcNum; i++) {
+                var currSrc = srcs[i];
+                lazyLoadScript(currSrc, function() {
+                    loadingProgress++;
+                    if (srcNum == loadingProgress) {
+                        if ('function' === typeof callback) {
+                            callback();
+                        } else if (isArray(callback)) {
+                            for ( var i = 0; i < callback.length; i++) {
+                                (callback[i])();
+                            }
+                        }
+                    }
+                });
+            }
+        }
+    }
+    var isTimeout = false;
+    var lazyLoadFunction = null;
+    var lazyScriptLoaded = false;
+    var lazyScriptTimeout = 3000;
+    lazyloadBindingFuc = function() {
+    }
+    lazyLoadFunction = function() {
+        if (lazyScriptLoaded && isTimeout) {
+              lazyLoadScript(_getJsFilePath("da_opt.js"));
+            return;
+        }
+        lazyScriptLoaded = true;
+        if (isTimeout) {
+                    lazyLoadScript(_getJsFilePath("sa_click.js"),
+                    function() {
+                        lazyLoadScript(_getJsFilePath("da_opt.js"));
+                    });
+        } else {
+                lazyLoadScript(_getJsFilePath("sa_click.js"),
+                    function() {
+                        lazyLoadScript(_getJsFilePath("da_opt.js"))
+                    });
+        }
+    }
+    addOnLoad(lazyloadBindingFuc);
+    addOnLoad(lazyLoadFunction);
+    function checkLazyScriptTimeout() {
+        isTimeout = true;
+        if (!lazyScriptLoaded) {
+            if (!!lazyLoadFunction) {
+                lazyLoadFunction();
+            } else {
+                setTimeout(checkLazyScriptTimeout, 1000);
+            }
+        }
+    }
+    setTimeout(checkLazyScriptTimeout, lazyScriptTimeout);
+  </script>
+  <script src="//res.suning.cn/project/min/hongkong/common/js/jquery.min.js,hongkong/common/js/popup-ie8.js?v=2618425">
+  </script>
+  <script src="//res.suning.cn/project/min/passport/js/passport.js,hongkong/common/js/vue.js,hongkong/common/js/lazyelem.min.js,hongkong/common/js/search.js,hongkong/common/js/SFE.base.js,hongkong/common/js/getPrice.js,hongkong/common/js/jquery.cookie.js,yunxinhk/js/chatCompat_mini_hk.js?v=2618425">
+  </script>
+  <script id="" type="text/javascript">
+   !function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","336439133373227");fbq("track","PageView");
+  </script>
+  <noscript>
+   <img height="1" src="https://www.facebook.com/tr?id=336439133373227&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/>
+  </noscript>
+  <script id="" type="text/javascript">
+   (function(d,a,b,f,e){d[e]=d[e]||[];d[e].push({projectId:"10000",properties:{pixelId:"439184"}});var c=a.createElement(b);c.src=f;c.async=!0;c.onload=c.onreadystatechange=function(){var a=this.readyState,c=d[e];if(!a||"complete"==a||"loaded"==a)try{var b=YAHOO.ywa.I13N.fireBeacon;d[e]=[];d[e].push=function(a){b([a])};b(c)}catch(g){}};a=a.getElementsByTagName(b)[0];b=a.parentNode;b.insertBefore(c,a)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");
+  </script>
+  <script id="" type="text/javascript">
+   !function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","2174671119271204");fbq("set","agent","tmgoogletagmanager","2174671119271204");fbq("track","PageView");
+  </script>
+  <noscript>
+   <img height="1" src="https://www.facebook.com/tr?id=2174671119271204&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/>
+  </noscript>
+  <script id="" type="text/javascript">
+   !function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","591780967946955");fbq("set","agent","tmgoogletagmanager","591780967946955");fbq("track","PageView");
+  </script>
+  <noscript>
+   <img height="1" src="https://www.facebook.com/tr?id=591780967946955&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/>
+  </noscript>
+  <script src="//res.suning.cn/project/min/hongkong/fourth/pc/js/promise.js,hongkong/fourth/pc/js/util.js,hongkong/fourth/pc/js/activeTimer.js,hongkong/fourth/pc/js/fourth.js,hongkong/fourth/pc/js/SFE.city.js,hongkong/fourth/pc/js/listloop.js,hongkong/fourth/pc/js/coupon.js,hongkong/fourth/pc/js/main.js,hongkong/fourth/pc/js/SFE.dialog.js,hongkong/fourth/pc/js/see-again.js,hongkong/fourth/pc/js/fourth_uom.js?v=2618425">
+  </script>
+  <script class="ywa-10000" defer="" id="ywa-1571107861466-88385" src="https://sp.analytics.yahoo.com/sp.pl?a=10000&amp;jsonp=YAHOO.ywa.I13N.handleJSONResponse&amp;d=Tue%2C%2015%20Oct%202019%2002%3A51%3A01%20GMT&amp;n=-8&amp;b=HONOR%20View%2020%208%2B256GB%20%E6%99%BA%E8%83%BD%E6%89%8B%E6%A9%9F%20%E5%B9%BB%E5%BD%B1%E8%97%8D%E3%80%90%E5%83%B9%E6%A0%BC%20%E5%9C%96%E7%89%87%20%E5%93%81%E7%89%8C%20%E5%A0%B1%E5%83%B9%E3%80%91-%E9%A6%99%E6%B8%AF%E8%98%87%E5%AF%A7%E8%98%87%E5%AF%A7%E8%87%AA%E7%87%9F&amp;.yp=439184&amp;f=https%3A%2F%2Fproduct.hksuning.com%2F0000000000%2F11008663850.html&amp;enc=UTF-8" type="application/javascript">
+  </script>
+ </body>
+</html>
