@@ -105,6 +105,13 @@ Customer:
 
 
 
-PPT
+## PPT
 - 1. suning & hktvmall 价格分布box plot
-- 
+- 2. regression 分析对价格的影响因素
+- 3. title, labels, axis-name写好
+- 4. 大目标：如何提高销量
+     - 4.1 小目标：
+       - 4.1.1 顾客的消费特点（比较两家店的正态分布）
+       - 4.1.2 两家店的定位（用box plot来看）
+- 5. 情感分析：评分、评论分析（NLP）
+- 6. 商品规格爬虫
