@@ -8,11 +8,11 @@
 
 </head>
 <body>
-    <div id="d28b04bbb8ab4d47acb89b519e50a54a" class="chart-container" style="width:900px; height:500px;"></div>
+    <div id="5caadc7698644c308359a5cc50c27783" class="chart-container" style="width:900px; height:500px;"></div>
     <script>
-        var chart_d28b04bbb8ab4d47acb89b519e50a54a = echarts.init(
-            document.getElementById('d28b04bbb8ab4d47acb89b519e50a54a'), 'walden', {renderer: 'canvas'});
-        var option_d28b04bbb8ab4d47acb89b519e50a54a = {
+        var chart_5caadc7698644c308359a5cc50c27783 = echarts.init(
+            document.getElementById('5caadc7698644c308359a5cc50c27783'), 'walden', {renderer: 'canvas'});
+        var option_5caadc7698644c308359a5cc50c27783 = {
     "animation": true,
     "animationThreshold": 2000,
     "animationDuration": 1000,
@@ -24,11 +24,26 @@
     "series": [
         {
             "type": "bar",
-            "name": "Grouped Product Count",
+            "name": "Suning Product Count",
             "data": [
-                17,
-                88,
-                126
+                77,
+                66,
+                193
+            ],
+            "barCategoryGap": "20%",
+            "label": {
+                "show": true,
+                "position": "top",
+                "margin": 8
+            }
+        },
+        {
+            "type": "bar",
+            "name": "HKTVMall Product Count",
+            "data": [
+                60,
+                328,
+                615
             ],
             "barCategoryGap": "20%",
             "label": {
@@ -41,10 +56,12 @@
     "legend": [
         {
             "data": [
-                "Grouped Product Count"
+                "Suning Product Count",
+                "HKTVMall Product Count"
             ],
             "selected": {
-                "Grouped Product Count": true
+                "Suning Product Count": true,
+                "HKTVMall Product Count": true
             },
             "show": true,
             "padding": 5,
@@ -116,11 +133,11 @@
     ],
     "title": [
         {
-            "text": "Product Count of HKTVMall"
+            "text": "Product Count"
         }
     ]
 };
-        chart_d28b04bbb8ab4d47acb89b519e50a54a.setOption(option_d28b04bbb8ab4d47acb89b519e50a54a);
+        chart_5caadc7698644c308359a5cc50c27783.setOption(option_5caadc7698644c308359a5cc50c27783);
     </script>
 </body>
 </html>

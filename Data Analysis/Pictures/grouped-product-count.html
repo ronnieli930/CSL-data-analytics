@@ -8,11 +8,11 @@
 
 </head>
 <body>
-    <div id="d28b04bbb8ab4d47acb89b519e50a54a" class="chart-container" style="width:900px; height:500px;"></div>
+    <div id="dedcc1ab77be49e691b24eb4ef4b1065" class="chart-container" style="width:900px; height:500px;"></div>
     <script>
-        var chart_d28b04bbb8ab4d47acb89b519e50a54a = echarts.init(
-            document.getElementById('d28b04bbb8ab4d47acb89b519e50a54a'), 'walden', {renderer: 'canvas'});
-        var option_d28b04bbb8ab4d47acb89b519e50a54a = {
+        var chart_dedcc1ab77be49e691b24eb4ef4b1065 = echarts.init(
+            document.getElementById('dedcc1ab77be49e691b24eb4ef4b1065'), 'walden', {renderer: 'canvas'});
+        var option_dedcc1ab77be49e691b24eb4ef4b1065 = {
     "animation": true,
     "animationThreshold": 2000,
     "animationDuration": 1000,
@@ -24,7 +24,22 @@
     "series": [
         {
             "type": "bar",
-            "name": "Grouped Product Count",
+            "name": "Suning Grouped Product Count",
+            "data": [
+                10,
+                11,
+                28
+            ],
+            "barCategoryGap": "20%",
+            "label": {
+                "show": true,
+                "position": "top",
+                "margin": 8
+            }
+        },
+        {
+            "type": "bar",
+            "name": "HKTVMall Grouped Product Count",
             "data": [
                 17,
                 88,
@@ -41,10 +56,12 @@
     "legend": [
         {
             "data": [
-                "Grouped Product Count"
+                "Suning Grouped Product Count",
+                "HKTVMall Grouped Product Count"
             ],
             "selected": {
-                "Grouped Product Count": true
+                "Suning Grouped Product Count": true,
+                "HKTVMall Grouped Product Count": true
             },
             "show": true,
             "padding": 5,
@@ -116,11 +133,11 @@
     ],
     "title": [
         {
-            "text": "Product Count of HKTVMall"
+            "text": "Product Count"
         }
     ]
 };
-        chart_d28b04bbb8ab4d47acb89b519e50a54a.setOption(option_d28b04bbb8ab4d47acb89b519e50a54a);
+        chart_dedcc1ab77be49e691b24eb4ef4b1065.setOption(option_dedcc1ab77be49e691b24eb4ef4b1065);
     </script>
 </body>
 </html>

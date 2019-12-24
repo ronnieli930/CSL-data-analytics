@@ -8,11 +8,11 @@
 
 </head>
 <body>
-    <div id="f585b6463fb64e0cba8edf1bb05981d4" class="chart-container" style="width:900px; height:500px;"></div>
+    <div id="aaa7ae9023d8488bbccac45be71d42af" class="chart-container" style="width:900px; height:500px;"></div>
     <script>
-        var chart_f585b6463fb64e0cba8edf1bb05981d4 = echarts.init(
-            document.getElementById('f585b6463fb64e0cba8edf1bb05981d4'), 'walden', {renderer: 'canvas'});
-        var option_f585b6463fb64e0cba8edf1bb05981d4 = {
+        var chart_aaa7ae9023d8488bbccac45be71d42af = echarts.init(
+            document.getElementById('aaa7ae9023d8488bbccac45be71d42af'), 'walden', {renderer: 'canvas'});
+        var option_aaa7ae9023d8488bbccac45be71d42af = {
     "animation": true,
     "animationThreshold": 2000,
     "animationDuration": 1000,
@@ -24,6 +24,74 @@
     "series": [
         {
             "type": "boxplot",
+            "name": "Suning",
+            "data": [
+                [
+                    1388.0,
+                    3368.5,
+                    4599.0,
+                    8043.5,
+                    21688.0
+                ],
+                [
+                    2998.0,
+                    8899.0,
+                    10399.0,
+                    13651.0,
+                    20679.0
+                ],
+                [
+                    988.0,
+                    2638.0,
+                    5556.12,
+                    7305.5,
+                    12499.0
+                ]
+            ],
+            "label": {
+                "show": true,
+                "position": "top",
+                "margin": 8
+            },
+            "markPoint": {
+                "label": {
+                    "show": true,
+                    "position": "inside",
+                    "color": "#fff",
+                    "margin": 8
+                }
+            },
+            "markLine": {
+                "silent": false,
+                "precision": 2,
+                "label": {
+                    "show": true,
+                    "position": "top",
+                    "margin": 8
+                }
+            },
+            "tooltip": {
+                "show": true,
+                "trigger": "item",
+                "triggerOn": "mousemove|click",
+                "axisPointer": {
+                    "type": "line"
+                },
+                "textStyle": {
+                    "fontSize": 14
+                },
+                "borderWidth": 0
+            },
+            "rippleEffect": {
+                "show": true,
+                "brushType": "stroke",
+                "scale": 2.5,
+                "period": 4
+            }
+        },
+        {
+            "type": "boxplot",
+            "name": "HKTVMall",
             "data": [
                 [
                     889.0,
@@ -92,10 +160,12 @@
     "legend": [
         {
             "data": [
-                ""
+                "Suning",
+                "HKTVMall"
             ],
             "selected": {
-                "": true
+                "Suning": true,
+                "HKTVMall": true
             },
             "show": true,
             "padding": 5,
@@ -189,11 +259,11 @@
     ],
     "title": [
         {
-            "text": "Suning price box plot"
+            "text": "Suning and HKTVMallprice box plot"
         }
     ]
 };
-        chart_f585b6463fb64e0cba8edf1bb05981d4.setOption(option_f585b6463fb64e0cba8edf1bb05981d4);
+        chart_aaa7ae9023d8488bbccac45be71d42af.setOption(option_aaa7ae9023d8488bbccac45be71d42af);
     </script>
 </body>
 </html>
