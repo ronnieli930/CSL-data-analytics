@@ -8,11 +8,11 @@
 
 </head>
 <body>
-    <div id="cec0ba431e734afc95311aab5f6dab0b" class="chart-container" style="width:900px; height:500px;"></div>
+    <div id="45a06b75bd1f4c0c9347ccf7cb1d5597" class="chart-container" style="width:900px; height:500px;"></div>
     <script>
-        var chart_cec0ba431e734afc95311aab5f6dab0b = echarts.init(
-            document.getElementById('cec0ba431e734afc95311aab5f6dab0b'), 'walden', {renderer: 'canvas'});
-        var option_cec0ba431e734afc95311aab5f6dab0b = {
+        var chart_45a06b75bd1f4c0c9347ccf7cb1d5597 = echarts.init(
+            document.getElementById('45a06b75bd1f4c0c9347ccf7cb1d5597'), 'walden', {renderer: 'canvas'});
+        var option_45a06b75bd1f4c0c9347ccf7cb1d5597 = {
     "animation": true,
     "animationThreshold": 2000,
     "animationDuration": 1000,
@@ -24,10 +24,26 @@
     "series": [
         {
             "type": "bar",
-            "name": "Comments Count",
+            "name": "Suning Product Count",
             "data": [
-                187,
-                48226
+                77,
+                66,
+                193
+            ],
+            "barCategoryGap": "20%",
+            "label": {
+                "show": true,
+                "position": "top",
+                "margin": 8
+            }
+        },
+        {
+            "type": "bar",
+            "name": "HKTVMall Product Count",
+            "data": [
+                60,
+                328,
+                615
             ],
             "barCategoryGap": "20%",
             "label": {
@@ -40,10 +56,12 @@
     "legend": [
         {
             "data": [
-                "Comments Count"
+                "Suning Product Count",
+                "HKTVMall Product Count"
             ],
             "selected": {
-                "Comments Count": true
+                "Suning Product Count": true,
+                "HKTVMall Product Count": true
             },
             "show": true,
             "right": 5,
@@ -87,14 +105,15 @@
                 }
             },
             "data": [
-                "HKTVMall",
-                "Suning"
+                "tablet",
+                "laptop",
+                "phones"
             ]
         }
     ],
     "yAxis": [
         {
-            "name": "Number of Comments",
+            "name": "Number of Products",
             "show": true,
             "scale": false,
             "nameLocation": "end",
@@ -117,11 +136,11 @@
     ],
     "title": [
         {
-            "text": "Total comments of two platforms"
+            "text": "Compare Product Count"
         }
     ]
 };
-        chart_cec0ba431e734afc95311aab5f6dab0b.setOption(option_cec0ba431e734afc95311aab5f6dab0b);
+        chart_45a06b75bd1f4c0c9347ccf7cb1d5597.setOption(option_45a06b75bd1f4c0c9347ccf7cb1d5597);
     </script>
 </body>
 </html>
