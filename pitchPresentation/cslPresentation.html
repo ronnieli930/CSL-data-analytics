@@ -1,0 +1,705 @@
+<!doctype html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CLEAN MARKUP = GOOD KARMA.
+      Hi source code lover,
+
+      you're a curious person and a fast learner ;)
+      Let's make something beautiful together. Contribute on Github:
+      https://github.com/webslides/webslides
+
+      Thanks!
+    -->
+
+    <!-- SEO -->
+    <title>WebSlides Keynote: Make a Keynote presentation using HTML</title>
+    <meta name="description" content="WebSlides is the easiest way to make HTML presentations. Just essential features, clean code, and lovely CSS.">
+
+    <!-- URL CANONICAL -->
+    <!-- <link rel="canonical" href="http://your-url.com/permalink"> -->
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,700,700i%7CMaitree:200,300,400,600,700&amp;subset=latin-ext" rel="stylesheet">
+
+    <!-- CSS Base -->
+    <link rel="stylesheet" type='text/css' media='all' href="static/css/webslides.css">
+
+    <!-- Optional - CSS SVG Icons (Font Awesome) -->
+    <link rel="stylesheet" type="text/css" media="all" href="static/css/svg-icons.css">
+
+    <!-- SOCIAL CARDS (ADD YOUR INFO) -->
+
+    <!-- FACEBOOK -->
+    <meta property="og:url" content="http://your-url.com/permalink"> <!-- EDIT -->
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Make a Keynote presentation using HTML"> <!-- EDIT -->
+    <meta property="og:description" content="WebSlides is the easiest way to make HTML presentations. 120+ free slides ready to use."> <!-- EDIT -->
+    <meta property="og:updated_time" content="2017-01-04T17:32:14"> <!-- EDIT -->
+    <meta property="og:image" content="static/images/share-webslides.jpg" > <!-- EDIT -->
+
+    <!-- TWITTER -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@webslides"> <!-- EDIT -->
+    <meta name="twitter:creator" content="@jlantunez"> <!-- EDIT -->
+    <meta name="twitter:title" content="Make a Keynote presentation using HTML"> <!-- EDIT -->
+    <meta name="twitter:description" content="WebSlides is the easiest way to make HTML presentations. 120+ free slides ready to use."> <!-- EDIT -->
+    <meta name="twitter:image" content="static/images/share-webslides.jpg"> <!-- EDIT -->
+
+    <!-- FAVICONS -->
+    <link rel="shortcut icon" sizes="16x16" href="static/images/favicons/favicon.png">
+    <link rel="shortcut icon" sizes="32x32" href="static/images/favicons/favicon-32.png">
+    <link rel="apple-touch-icon icon" sizes="76x76" href="static/images/favicons/favicon-76.png">
+    <link rel="apple-touch-icon icon" sizes="120x120" href="static/images/favicons/favicon-120.png">
+    <link rel="apple-touch-icon icon" sizes="152x152" href="static/images/favicons/favicon-152.png">
+    <link rel="apple-touch-icon icon" sizes="180x180" href="static/images/favicons/favicon-180.png">
+    <link rel="apple-touch-icon icon" sizes="192x192" href="static/images/favicons/favicon-192.png">
+
+    <!-- Android -->
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#333333">
+  </head>
+
+  <!-- Content Start CSLCSLCSLCSL -->
+  <body>
+    <header>
+      <!--.wrap o <nav> = container 1200px -->
+      <div class="wrap">
+        <img class="alignright" src='static/images/logos/logo.png' style="width: 48px;height: 36px;">
+        <img class="alignright" src='pictures/cityuLogo.png' style="margin-left: 20px;width: 60px;height:36px;">
+      </div>
+    </header>
+    <!-- <header role="banner">
+      <nav role="navigation">
+        <p class="logo"><a href="../index.html" title="WebSlides">WebSlides</a></p>
+        <ul>
+          <li class="github">
+            <a rel="external" href="https://github.com/webslides/webslides" title="Github">
+              <img class="fa-github" src="static/images/logos/github.png" style="width:30px;height:30px;" />
+              <em>WebSlides</em>
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </header> -->
+
+    <main role="main">
+      <article id="webslides">
+
+        <!-- Quick Guide
+          - Each parent <section> in the <article id="webslides"> element is an individual slide.
+          - Vertical sliding = <article id="webslides" class="vertical">
+          - <div class="wrap"> = container 90% / <div class="wrap size-50"> = 45%;
+        -->
+
+        <!-- page 1 -->
+        <section class="bg-apple aligncenter">
+          <!--.wrap = container (width: 90%) -->
+          <div class="wrap fadeInUp">
+            <h1>CSL Competition <br />  Electronic Devices Market</h1>
+          </div>
+          <!-- .end .wrap -->
+          <div class="fadeInUp" style="position: absolute;bottom: 60px; left: 80px;">
+            <h4>Member List:</h4>
+            <ul>
+              <li>Chan Tai To</li>
+              <li>Li Haotian</li>
+              <li>WEI Rongyan</li>
+              <li>Xue Kaiwen  </li>
+            </ul>
+          </div>
+          <div class="fadeInUp" style="position: absolute;bottom: 30px; right: 80px;">
+            <img style="float:right;width:180px;height: 180px;" src="pictures/p1.png">
+          </div>
+        </section>
+
+        <!-- page 2 -->
+        <section class="bg-apple">
+          <div class="wrap size-50 slide-top">
+            <h2><b>Executive Summary</b></h2>
+            <div style="width: 450px; background-color:#eee;height: 1px;margin-bottom: 50px"></div>
+            <h4><b>1. Web Crawling</b></h4>
+            <div style="margin: 20px;font-size: 24px;font-weight: 500;margin-left: 50px;">
+              <p>1.&nbsp;&nbsp;Website Observation <br> 2.&nbsp;&nbsp;Methodology used</p>
+            </div>
+            <h4><b>2. Findings</b></h4>
+            <div style="margin: 20px;font-size: 24px;font-weight: 500;margin-left: 50px;">
+              <p>1.&nbsp;&nbsp;Data Brief Introduction<br>2.&nbsp;&nbsp;Product Analysis<br>3.&nbsp;&nbsp;Sales Analysis<br>4.&nbsp;&nbsp;Review Analysis<br>5.&nbsp;&nbsp;Summary & Recommendation</p>
+            </div>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page 3 -->
+        <section class="bg-apple">
+          <!--.wrap = container (width: 90%) -->
+          <div class="wrap size-70">
+            <h2>Web Crawling</h2>
+            <div style="width: 500px;height: 1px;background-color: #eee;margin-bottom: 10px"></div>
+            <div style="width: 300px;height: 1px;background-color: #eee;"></div>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page 4 -->
+        <section class="bg-apple">
+          <div class="wrap">
+            <h2>Web Crawling- Observation</h2>
+            <img style="border-radius: 8px;" src="pictures/p2.png">
+          </div>
+        </section>
+
+        <!-- page 5 -->
+        <section class="bg-apple">
+          <div class="wrap">
+            <h2>Web Crawling- Methodology used</h2>
+            <h5 style="margin-bottom: 20px">Methodology:</h5>
+            <ul class="flexblock features">
+              <li>
+                <div>
+                  <h4>Python3</h4>
+                  <p>Python3 with Jupyter Notebook</p>
+                </div>
+              </li>
+              <li>
+                <div>
+                  <h4>Pyppeteer</h4>
+                  <p>Get a rendered website</p>
+                </div>
+              </li>
+              <li>
+                <div>
+                  <h4>
+                    Beautifulsoup
+                  </h4>
+                  <p>Examine HTML and XML files</p>
+                </div>
+              </li>
+              <li>
+                <div>
+                  <h4>CSV files</h4>
+                  <p>Store useful information (e.g. product type, sellers, comments, prices …)</p>
+                </div>
+              </li>
+            </ul>
+            <img style="border-radius: 8px;" src="pictures/p3.png">
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page6 -->
+        <section class="bg-apple">
+          <div class="wrap">
+            <h2>Web Crawling- Methodology used</h2>
+            <h5 style="margin-bottom: 20px">Suning:</h5>
+            <ul>
+              <li style="font-size: 24px;">Cannot determine current page number by examining URLs</li>
+              <li style="font-size: 24px;">Determine the next button exists</li>
+              <li style="font-size: 24px;">For each category, fetch all URLs for that category</li>
+              <li style="font-size: 24px;">Then traverse the URLs to crawl data</li>
+            </ul>
+            <hr>
+            <div class="content-left">
+              <img style="border-radius: 8px;" src="pictures/p4.png">
+            </div>
+            <!-- end .content-left -->
+            <div class="content-left">
+              <img style="border-radius: 8px;" src="pictures/p5.png">
+            </div>
+            <!-- end .content-left -->
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page 7 -->
+        <section class="bg-apple">
+          <!--.wrap o <nav> = container 1200px -->
+          <div class="wrap">
+            <h2>Web Crawling- Methodology used</h2>
+            <h5 style="margin-bottom: 20px">HKTVMall:</h5>
+            <ul>
+              <li style="font-size: 24px;">HKTVMall’s URLs are well indexed</li>
+              <li style="font-size: 24px;">Get the total number of pages before crawling each page</li>
+              <li style="font-size: 24px;">Then use the rules in the URL to get the content of each page</li>
+              <li style="font-size: 24px;">Sometimes the respond page did not rendered correctly</li>
+              <li style="font-size: 24px;">An exception handler to request the page again when the page is incurrent</li>
+            </ul>
+            <hr>
+            <div class="content-left">
+              <img style="border-radius: 8px;" src="pictures/p6.png">
+            </div>
+            <!-- end .content-left -->
+            <div class="content-left">
+              <img style="border-radius: 8px;" src="pictures/p7.png">
+            </div>
+            <!-- end .content-left -->
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page 8 -->
+        <section class="bg-apple">
+          <!--.wrap = container (width: 90%) -->
+          <div class="wrap size-70">
+            <h2>Data Analysis</h2>
+            <div style="width: 500px;height: 1px;background-color: #eee;margin-bottom: 10px"></div>
+            <div style="width: 300px;height: 1px;background-color: #eee;"></div>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page 9 -->
+        <section class="bg-apple aligncenter">
+          <!--.wrap = container (width: 90%) -->
+          <div class="wrap">
+            <h2>Data Brief Introduction – Product varieties</h2>
+            <hr>
+            <iframe class="zoomIn" width="900" height="500" src="pictures/Suning-grouping-percentage.html"></iframe>
+          </div>
+          <img style="width: 200px;position: absolute;right: 30px;bottom: 30px;border-radius: 8px;" src="pictures/suning.png" />
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page 10 -->
+        <section class="bg-apple aligncenter">
+          <!--.wrap = container (width: 90%) -->
+          <div class="wrap">
+            <h2>Data Brief Introduction – Product varieties</h2>
+            <hr>
+            <iframe class="zoomIn" width="900" height="500" src="pictures/HKTVMall-grouping-percentage.html"></iframe>
+          </div>
+          <img style="width: 200px;position: absolute;right: 30px;bottom: 30px;border-radius: 8px;" src="pictures/hktvmall.png" />
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page 11 -->
+        <section class="bg-apple aligncenter">
+          <!--.wrap = container (width: 90%) -->
+          <div class="wrap">
+            <h2>Data Brief Introduction – Product Varieties Comparison</h2>
+            <hr>
+            <iframe class="zoomIn" width="900" height="500" src="pictures/comapre-grouped-product-count.html"></iframe>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page 12 -->
+        <section class="bg-apple aligncenter">
+          <!--.wrap = container (width: 90%) -->
+          <div class="wrap">
+            <h2>Data Brief Introduction – Price distribution</h2>
+            <hr>
+            <iframe class="zoomIn" width="900" height="500" src="pictures/price-box-plot.html"></iframe>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page 13 -->
+        <section class="bg-apple aligncenter">
+          <!--.wrap = container (width: 90%) -->
+          <div class="wrap">
+            <h2>Data Brief Introduction – Summary </h2>
+            <hr>
+            <ul class="flexblock features">
+              <li>
+                <img style="width: 300px;height: 90px;object-fit: cover;" src="pictures/hktvmall.png" />
+                <br>
+                <div>
+                  <h5>More alternatives</h5>
+                  <h5>High competitiveness</h5>
+                </div>
+              </li>
+              <li>
+                <img style="width: 300px;height: 95px;object-fit: cover;" src="pictures/suning.png" />
+                <br>
+                <div>
+                  <h5>Less choices</h5>
+                  <h5>Maybe better quality</h5>
+                </div>
+              </li>
+            </ul>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page 14 -->
+        <section class="bg-apple aligncenter">
+          <!--.wrap = container (width: 90%) -->
+          <div class="wrap">
+            <h2>Product Analysis - Brand Effect on Sales</h2>
+            <img style="border-radius: 8px" src="pictures/p8.png"/>
+          </div>
+          <img style="width: 200px;position: absolute;right: 30px;bottom: 30px;border-radius: 8px;" src="pictures/hktvmall.png" />
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page 15 -->
+        <section class="bg-apple aligncenter">
+          <!--.wrap = container (width: 90%) -->
+          <div class="wrap">
+            <h2>Product Analysis - Brand Effect on Sales</h2>
+            <img style="border-radius: 8px" src="pictures/p9.png"/>
+          </div>
+          <img style="width: 200px;position: absolute;right: 30px;bottom: 30px;border-radius: 8px;" src="pictures/suning.png" />
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page 16 -->
+        <section class="bg-apple aligncenter">
+          <!--.wrap = container (width: 90%) -->
+          <div class="wrap zoomIn">
+            <div class="card-50">
+              <figure><img style="border-radius: 8px;" class="aligncenter" src="pictures/p10.png" alt="iPhone"></figure>
+              <div class="flex-content">
+                <h2>
+                  Top 6 Best Sales
+                </h2>
+                <p class="text-intro">
+                  Phones
+                </p>
+                <ul style="font-weight: 600; text-align: left; margin-left: 100px">
+                  <li>Huawei & Apple</li>
+                  <li>Full screen design </li>
+                  <li>No home button </li>
+                </ul>
+              </div>
+              <!-- end .flex-content-->
+            </div>
+            <!-- end .card-50-->
+          </div>
+          <img style="width: 200px;position: absolute;right: 30px;bottom: 30px;border-radius: 8px;" src="pictures/suning.png" />
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page 17 -->
+        <section class="bg-apple aligncenter">
+          <!--.wrap = container (width: 90%) -->
+          <div class="wrap zoomIn">
+            <div class="card-50">
+              <figure><img style="border-radius: 8px;" class="aligncenter" src="pictures/p11.png" alt="iPhone"></figure>
+              <div class="flex-content">
+                <h2>
+                  Top 6 Best Sales
+                </h2>
+                <p class="text-intro">
+                  Tablets
+                </p>
+                <ul style="font-weight: 600; text-align: left; margin-left: 100px">
+                  <li>Microsoft & Apple</li>
+                  <li> 2 in 1 usage </li>
+                  <li>Lightweight, easily carry</li>
+                  <li>Cooperate with the pencil</li>
+                </ul>
+              </div>
+              <!-- end .flex-content-->
+            </div>
+            <!-- end .card-50-->
+          </div>
+          <img style="width: 200px;position: absolute;right: 30px;bottom: 30px;border-radius: 8px;" src="pictures/suning.png" />
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page 18 -->
+        <section class="bg-apple aligncenter">
+          <!--.wrap = container (width: 90%) -->
+          <div class="wrap zoomIn">
+            <div class="card-50">
+              <figure><img style="border-radius: 8px;" class="aligncenter" src="pictures/p12.png" alt="iPhone"></figure>
+              <div class="flex-content">
+                <h2>
+                  Top 6 Best Sales
+                </h2>
+                <p class="text-intro">
+                  Laptops
+                </p>
+                <ul style="font-weight: 600; text-align: left; margin-left: 100px">
+                  <li>Apple</li>
+                  <li> Brand Effect</li>
+                  <li>Brand Effect</li>
+                </ul>
+              </div>
+              <!-- end .flex-content-->
+            </div>
+            <!-- end .card-50-->
+          </div>
+          <img style="width: 200px;position: absolute;right: 30px;bottom: 30px;border-radius: 8px;" src="pictures/suning.png" />
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page 19 -->
+        <section class="bg-apple">
+          <span class="background-left-bottom" style="background-image:url('static/images/iphone-hand.png')"></span>
+          <h2 style="position: absolute;top: 120px;left: 80px;">Product Analysis – Summary</h2>
+          <div class="wrap">
+            <div class="content-right">
+              <h4>Factors Affecting Sales</h4>
+              <div style="width: 330px;height: 1px;background-color: #eee;"></div>
+              <ul class="flexblock specs">
+                <li>
+                  <div>
+                    <h2>Brand</h2>
+                    Apple, Huawei, SAMSUNG, LEVENO, Xiaomi, Teclast
+                  </div>
+                </li>
+                <li>
+                  <div>
+                    <h2>Function</h2>
+                    full screen, lightweight, simple design
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page 20 -->
+        <section class="bg-apple">
+          <div class="wrap">
+            <h2>Sales Analysis – Review rate and amount </h2>
+            <img src="pictures/p13.png">
+            <div style="width:100%;font-size: 22px; font-weight: 700;position: absolute;bottom: 0px; text-align: center;"><p>The sales doesn't rely on the rating score</p></div>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page 21 -->
+        <section class="bg-apple">
+          <div class="wrap">
+            <h2>Sales Analysis – Review rate and amount </h2>
+            <img src="pictures/p14.png">
+            <div style="width:100%;font-size: 22px; font-weight: 700;position: absolute;bottom: 0px; text-align: center;"><p>Larger the rate amount&#10548;,Higher the reference value&#10548;.</p></div>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page 22 -->
+        <section class="bg-apple">
+          <h2 style="position: absolute;top: 120px;left: 80px;">Sales Analysis – Regression Analysis</h2>
+          <span class="background-right-bottom" style="background-image:url('pictures/p15.png')"></span>
+          <!--.wrap = container (width: 90%) -->
+          <div class="wrap">
+            <div class="content-left">
+              <h2>Decision Tree Regressor</h2>
+              <div style="width: 500px;height: 1px;background-color: #eee;">
+              <h4><i>D = {(X1,Y1),(X2,Y2),…,(XN,YN)}</i></h4>
+              <hr>
+              <h2>Advantages:</h2>
+              <div style="width: 270px;height: 1px;background-color: #eee;">
+              </div>
+              <br>
+              <div class="content-left">
+                <ul style="font-size: 24px;">
+                  <li>Easy to understand</li>
+                  <li>Simple to interpret</li>
+                  <li>Little data preparation </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page 23 -->
+        <section class="bg-apple">
+          <div class="wrap zoomIn">
+            <h2>Sales Analysis – Regression Analysis <br><b>Sales Factors</b></h2>
+            <img src="pictures/p16.png">
+            <div style="width:100%;font-size: 22px; font-weight: 700;position: absolute;bottom: 0px; text-align: center;"><p>Average Rate Score + Price + RAM + Storage + Brand &#10145; Sales</p></div>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page 24 -->
+        <section class="bg-apple">
+          <div class="wrap zoomIn">
+            <h2>Sales Analysis – Regression Analysis <br><b>Sales Factors</b></h2>
+            <div style="text-align: center;margin-top: 80px;">
+              <img style="width: 500px;" src="pictures/p17.png">
+            </div>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page 25 -->
+        <section class="bg-apple">
+          <div class="wrap zoomIn">
+            <h2>Sales Analysis – Regression Analysis <br><b>Price Factors</b></h2>
+            <img src="pictures/p18.png">
+            <div style="width:100%;font-size: 22px; font-weight: 700;position: absolute;bottom: 0px; text-align: center;"><p>Average Rate Score + Number of Comments + RAM + Storage + Brand &#10145; Price</p></div>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page 26 -->
+        <section class="bg-apple">
+          <div class="wrap zoomIn">
+            <h2>Sales Analysis – Regression Analysis <br><b>Price Factors</b></h2>
+            <div style="text-align: center;margin-top: 80px;">
+              <img style="width: 500px;" src="pictures/p19.png">
+            </div>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page 27 -->
+        <section class="bg-apple">
+          <span class="background-right-bottom" style="background-image:url('https://webslides.tv/static/images/tim-cook.png')"></span>
+          <h2 style="position: absolute;top: 120px;left: 80px;">Sales Analysis – Summary</h2>
+          <div class="wrap">
+            <blockquote class="text-quote">
+              <p>Customers are price sensitive & will attach importance to brands. </p>
+              <p>
+                <cite>
+                  <!-- <img class="avatar-56" src="static/images/avatar.jpg" alt="Avatar"> --> Tim Cook.
+                </cite>
+              </p>
+            </blockquote>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page 28 -->
+        <section class="bg-apple aligncenter">
+          <!--.wrap = container (width: 90%) -->
+          <div class="wrap">
+            <h2>Review Analysis - Review Amount</h2>
+            <hr>
+            <iframe class="zoomIn" width="900" height="500" src="pictures/total-comments.html"></iframe>
+          </div>
+          <img style="width: 200px;position: absolute;right: 300px;bottom: 30px;border-radius: 8px;" src="pictures/suning.png" />
+          <img style="width: 200px;position: absolute;left: 300px;bottom: 30px;border-radius: 8px;" src="pictures/hktvmall.png" />
+          <div style="z-index: 999;font-size: 22px; font-weight: 700;position: absolute;top: 450px;right: 100px; text-align: center;"><p>Mandatory comment <br>regulation on Suning</p></div>
+          <div style="font-size: 22px; font-weight: 700;position: absolute;top: 450px;right: 80px; text-align: center;"><p></p></div>
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page 29 -->
+        <section class="bg-apple aligncenter">
+          <!--.wrap = container (width: 90%) -->
+          <div class="wrap">
+            <h2>Review Analysis - Review Amount</h2>
+            <hr>
+            <iframe class="zoomIn" width="900" height="500" src="pictures/meaningful-comments.html"></iframe>
+          </div>
+          <img style="width: 200px;position: absolute;left: 300px;bottom: 30px;border-radius: 8px;" src="pictures/hktvmall.png" />
+          <img style="width: 200px;position: absolute;right: 300px;bottom: 30px;border-radius: 8px;" src="pictures/suning.png" />
+          <div style="z-index: 999;font-size: 22px; font-weight: 700;position: absolute;top: 450px;right: 100px; text-align: center;"><p>Only 0.48% meaningful <br>comments on Suning</p></div>
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page 30 -->
+        <section class="bg-apple aligncenter">
+          <!--.wrap = container (width: 90%) -->
+          <div class="wrap">
+            <h2>Review Analysis - Customer Sentiment</h2>
+            <img style="border-radius: 8px" src="pictures/p20.png"/>
+          </div>
+          <img style="width: 200px;position: absolute;right: 30px;bottom: 30px;border-radius: 8px;" src="pictures/hktvmall.png" />
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page 31 -->
+        <section class="bg-apple aligncenter">
+          <!--.wrap = container (width: 90%) -->
+          <div class="wrap">
+            <h2>Review Analysis - Customer Sentiment</h2>
+            <img style="border-radius: 8px" src="pictures/p21.png"/>
+          </div>
+          <img style="width: 200px;position: absolute;right: 30px;bottom: 30px;border-radius: 8px;" src="pictures/suning.png" />
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page 32 -->
+        <section class="bg-apple aligncenter">
+          <!--.wrap = container (width: 90%) -->
+          <div class="wrap">
+            <h2>Summary</h2>
+            <img style="border-radius: 8px" src="pictures/p22.png"/>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page 33 -->
+        <section class="bg-apple aligncenter">
+          <!--.wrap = container (width: 90%) -->
+          <div class="wrap">
+            <h2>Recommendation for two online platforms</h2>
+            <ul class="flexblock clients">
+              <li>
+                <a href="#" title="Client">
+                  <figure>
+                    <img class="blacklogo" src="pictures/hktvmall.png" alt="suning">
+                    <figcaption style="font-size: 20px; font-weight: 600">
+                      <h3>For HKTVMall</h3>
+                      <p style="margin: 20px">&#10024; Attract more customers to write comment</p>
+                      <p style="margin: 20px">&#10024; Improve the product quality</p>
+                      <p style="margin: 20px 20px 20px 60px">&#10024; Randomly inspect and test the products</p>
+                      <p style="margin: 20px 20px 20px 60px">&#10024; Implement punishment regulation</p>
+                    </figcaption>
+                  </figure>
+                </a>
+              </li>
+              <li>
+                <a href="#" title="Client">
+                  <figure>
+                    <img style="height: 188px" class="blacklogo" src="pictures/suning.png" alt="hktvmall">
+                    <figcaption style="font-size: 20px; font-weight: 600">
+                      <h3>For Suning</h3>
+                      <p style="margin: 20px">&#10024; Increase customer services quality</p>
+                      <p style="margin: 20px 20px 20px 60px">&#10024; Hire more staff </p>
+                      <p style="margin: 20px 20px 20px 60px">&#10024; rovide more services training for staff </p>
+                    </figcaption>
+                  </figure>
+                </a>
+              </li>
+            </ul>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page 34 -->
+        <section class="fullscreen bg-black aligncenter">
+          <div class="embed dark">
+             <img style="width: 100%;height: 100%;" src="pictures/bg-data.gif">
+          </div><!-- .embed -->
+          <!-- .wrap = container (width: 90%) -->
+          <div class="wrap aligncenter fadeInUp">
+            <h1 style="font-size: 150px"><strong>Q & A</strong></h1>
+            <h5 style="margin-top: 50px;font-size: 30px;">Tell us your insights.</h5>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- page 34 -->
+        <section class="fullscreen bg-black aligncenter">
+          <div class="embed dark">
+             <img style="width: 100%;height: 100%;" src="pictures/bg-data.gif">
+          </div><!-- .embed -->
+          <!-- .wrap = container (width: 90%) -->
+          <div class="wrap aligncenter zoomIn">
+            <h1><strong>Thank you for watching</strong></h1>
+            <hr>
+             <a style="font-size: 30px" target="_blank" href="https://github.com/blueice930/CSL-data-analytics/"><img src='static/images/logos/github.png' style="width: 28px;height: 28px;margin-right:10px;">https://github.com/blueice930/CSL-data-analytics/</a>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+      </article>
+    </main>
+    <!--main-->
+
+    <!-- Required -->
+    <script src="static/js/webslides.js"></script>
+
+    <script>
+      window.ws = new WebSlides();
+    </script>
+
+    <!-- OPTIONAL - svg-icons.js (fontastic.me - Font Awesome as svg icons) -->
+    <script defer src="static/js/svg-icons.js"></script>
+
+  </body>
+</html>

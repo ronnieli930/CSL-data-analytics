@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Awesome-pyecharts</title>
+            <script type="text/javascript" src="https://assets.pyecharts.org/assets/echarts.min.js"></script>
+        <script type="text/javascript" src="https://assets.pyecharts.org/assets/themes/walden.js"></script>
+
+</head>
+<body>
+    <div id="9479cc624a1c43d2b0c61f96a198c2db" class="chart-container" style="width:900px; height:500px;"></div>
+    <script>
+        var chart_9479cc624a1c43d2b0c61f96a198c2db = echarts.init(
+            document.getElementById('9479cc624a1c43d2b0c61f96a198c2db'), 'walden', {renderer: 'canvas'});
+        var option_9479cc624a1c43d2b0c61f96a198c2db = {
+    "animation": true,
+    "animationThreshold": 2000,
+    "animationDuration": 1000,
+    "animationEasing": "cubicOut",
+    "animationDelay": 0,
+    "animationDurationUpdate": 300,
+    "animationEasingUpdate": "cubicOut",
+    "animationDelayUpdate": 0,
+    "series": [
+        {
+            "type": "bar",
+            "name": "Suning Product Count",
+            "data": [
+                77,
+                66,
+                193
+            ],
+            "barCategoryGap": "20%",
+            "label": {
+                "show": true,
+                "position": "top",
+                "margin": 8
+            }
+        },
+        {
+            "type": "bar",
+            "name": "HKTVMall Product Count",
+            "data": [
+                60,
+                328,
+                615
+            ],
+            "barCategoryGap": "20%",
+            "label": {
+                "show": true,
+                "position": "top",
+                "margin": 8
+            }
+        }
+    ],
+    "legend": [
+        {
+            "data": [
+                "Suning Product Count",
+                "HKTVMall Product Count"
+            ],
+            "selected": {
+                "Suning Product Count": true,
+                "HKTVMall Product Count": true
+            },
+            "show": true,
+            "right": 5,
+            "padding": 5,
+            "itemGap": 10,
+            "itemWidth": 25,
+            "itemHeight": 14
+        }
+    ],
+    "tooltip": {
+        "show": true,
+        "trigger": "item",
+        "triggerOn": "mousemove|click",
+        "axisPointer": {
+            "type": "line"
+        },
+        "textStyle": {
+            "fontSize": 14
+        },
+        "borderWidth": 0
+    },
+    "xAxis": [
+        {
+            "name": "Category",
+            "show": true,
+            "scale": false,
+            "nameLocation": "end",
+            "nameGap": 15,
+            "gridIndex": 0,
+            "inverse": false,
+            "offset": 0,
+            "splitNumber": 5,
+            "minInterval": 0,
+            "splitLine": {
+                "show": false,
+                "lineStyle": {
+                    "width": 1,
+                    "opacity": 1,
+                    "curveness": 0,
+                    "type": "solid"
+                }
+            },
+            "data": [
+                "tablet",
+                "laptop",
+                "phones"
+            ]
+        }
+    ],
+    "yAxis": [
+        {
+            "name": "Number of Products",
+            "show": true,
+            "scale": false,
+            "nameLocation": "end",
+            "nameGap": 15,
+            "gridIndex": 0,
+            "inverse": false,
+            "offset": 0,
+            "splitNumber": 5,
+            "minInterval": 0,
+            "splitLine": {
+                "show": false,
+                "lineStyle": {
+                    "width": 1,
+                    "opacity": 1,
+                    "curveness": 0,
+                    "type": "solid"
+                }
+            }
+        }
+    ],
+    "title": [
+        {
+            "text": "Compare Product Count"
+        }
+    ]
+};
+        chart_9479cc624a1c43d2b0c61f96a198c2db.setOption(option_9479cc624a1c43d2b0c61f96a198c2db);
+    </script>
+</body>
+</html>

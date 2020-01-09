@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Awesome-pyecharts</title>
+            <script type="text/javascript" src="https://assets.pyecharts.org/assets/echarts.min.js"></script>
+        <script type="text/javascript" src="https://assets.pyecharts.org/assets/themes/walden.js"></script>
+
+</head>
+<body>
+    <div id="0afa2fd9f3ef47deb49a437e0ce9688f" class="chart-container" style="width:900px; height:500px;"></div>
+    <script>
+        var chart_0afa2fd9f3ef47deb49a437e0ce9688f = echarts.init(
+            document.getElementById('0afa2fd9f3ef47deb49a437e0ce9688f'), 'walden', {renderer: 'canvas'});
+        var option_0afa2fd9f3ef47deb49a437e0ce9688f = {
+    "animation": true,
+    "animationThreshold": 2000,
+    "animationDuration": 1000,
+    "animationEasing": "cubicOut",
+    "animationDelay": 0,
+    "animationDurationUpdate": 300,
+    "animationEasingUpdate": "cubicOut",
+    "animationDelayUpdate": 0,
+    "series": [
+        {
+            "type": "bar",
+            "name": "Grouped Product Count",
+            "data": [
+                10,
+                11,
+                28
+            ],
+            "barCategoryGap": "20%",
+            "label": {
+                "show": true,
+                "position": "top",
+                "margin": 8
+            }
+        }
+    ],
+    "legend": [
+        {
+            "data": [
+                "Grouped Product Count"
+            ],
+            "selected": {
+                "Grouped Product Count": true
+            },
+            "show": true,
+            "right": 5,
+            "padding": 5,
+            "itemGap": 10,
+            "itemWidth": 25,
+            "itemHeight": 14
+        }
+    ],
+    "tooltip": {
+        "show": true,
+        "trigger": "item",
+        "triggerOn": "mousemove|click",
+        "axisPointer": {
+            "type": "line"
+        },
+        "textStyle": {
+            "fontSize": 14
+        },
+        "borderWidth": 0
+    },
+    "xAxis": [
+        {
+            "name": "Category",
+            "show": true,
+            "scale": false,
+            "nameLocation": "end",
+            "nameGap": 15,
+            "gridIndex": 0,
+            "inverse": false,
+            "offset": 0,
+            "splitNumber": 5,
+            "minInterval": 0,
+            "splitLine": {
+                "show": false,
+                "lineStyle": {
+                    "width": 1,
+                    "opacity": 1,
+                    "curveness": 0,
+                    "type": "solid"
+                }
+            },
+            "data": [
+                "tablet",
+                "laptop",
+                "phones"
+            ]
+        }
+    ],
+    "yAxis": [
+        {
+            "name": "Number of Products",
+            "show": true,
+            "scale": false,
+            "nameLocation": "end",
+            "nameGap": 15,
+            "gridIndex": 0,
+            "inverse": false,
+            "offset": 0,
+            "splitNumber": 5,
+            "minInterval": 0,
+            "splitLine": {
+                "show": false,
+                "lineStyle": {
+                    "width": 1,
+                    "opacity": 1,
+                    "curveness": 0,
+                    "type": "solid"
+                }
+            }
+        }
+    ],
+    "title": [
+        {
+            "text": "Product Count of Suning"
+        }
+    ]
+};
+        chart_0afa2fd9f3ef47deb49a437e0ce9688f.setOption(option_0afa2fd9f3ef47deb49a437e0ce9688f);
+    </script>
+</body>
+</html>

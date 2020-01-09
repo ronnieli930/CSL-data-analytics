@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Awesome-pyecharts</title>
+            <script type="text/javascript" src="https://assets.pyecharts.org/assets/echarts.min.js"></script>
+        <script type="text/javascript" src="https://assets.pyecharts.org/assets/themes/shine.js"></script>
+
+</head>
+<body>
+    <div id="d8aa48b83a8a4be896c96d9713df0427" class="chart-container" style="width:900px; height:500px;"></div>
+    <script>
+        var chart_d8aa48b83a8a4be896c96d9713df0427 = echarts.init(
+            document.getElementById('d8aa48b83a8a4be896c96d9713df0427'), 'shine', {renderer: 'canvas'});
+        var option_d8aa48b83a8a4be896c96d9713df0427 = {
+    "animation": true,
+    "animationThreshold": 2000,
+    "animationDuration": 1000,
+    "animationEasing": "cubicOut",
+    "animationDelay": 0,
+    "animationDurationUpdate": 300,
+    "animationEasingUpdate": "cubicOut",
+    "animationDelayUpdate": 0,
+    "series": [
+        {
+            "type": "bar",
+            "name": "Meaningful Comments Count",
+            "data": [
+                187,
+                233
+            ],
+            "barCategoryGap": "20%",
+            "label": {
+                "show": true,
+                "position": "top",
+                "margin": 8
+            }
+        }
+    ],
+    "legend": [
+        {
+            "data": [
+                "Meaningful Comments Count"
+            ],
+            "selected": {
+                "Meaningful Comments Count": true
+            },
+            "show": true,
+            "right": 5,
+            "padding": 5,
+            "itemGap": 10,
+            "itemWidth": 25,
+            "itemHeight": 14
+        }
+    ],
+    "tooltip": {
+        "show": true,
+        "trigger": "item",
+        "triggerOn": "mousemove|click",
+        "axisPointer": {
+            "type": "line"
+        },
+        "textStyle": {
+            "fontSize": 14
+        },
+        "borderWidth": 0
+    },
+    "xAxis": [
+        {
+            "name": "Platforms",
+            "show": true,
+            "scale": false,
+            "nameLocation": "end",
+            "nameGap": 15,
+            "gridIndex": 0,
+            "inverse": false,
+            "offset": 0,
+            "splitNumber": 5,
+            "minInterval": 0,
+            "splitLine": {
+                "show": false,
+                "lineStyle": {
+                    "width": 1,
+                    "opacity": 1,
+                    "curveness": 0,
+                    "type": "solid"
+                }
+            },
+            "data": [
+                "HKTVMall",
+                "Suning"
+            ]
+        }
+    ],
+    "yAxis": [
+        {
+            "name": "Number of Comments",
+            "show": true,
+            "scale": false,
+            "nameLocation": "end",
+            "nameGap": 15,
+            "gridIndex": 0,
+            "inverse": false,
+            "offset": 0,
+            "splitNumber": 5,
+            "minInterval": 0,
+            "splitLine": {
+                "show": false,
+                "lineStyle": {
+                    "width": 1,
+                    "opacity": 1,
+                    "curveness": 0,
+                    "type": "solid"
+                }
+            }
+        }
+    ],
+    "title": [
+        {
+            "text": "Meaningful comments"
+        }
+    ]
+};
+        chart_d8aa48b83a8a4be896c96d9713df0427.setOption(option_d8aa48b83a8a4be896c96d9713df0427);
+    </script>
+</body>
+</html>
